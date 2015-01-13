@@ -1,0 +1,2052 @@
+{
+    "id": 4,
+    "name": "donkeywing",
+    "region": "eu",
+    "realm": "frostmane",
+    "gender": 1,
+    "thumbnail": "frostmane/205/70599117-avatar.jpg",
+    "calcClass": "Y",
+    "charClass": 3,
+    "race": 22,
+    "level": 100,
+    "achievementPoints": 11935,
+    "items": {
+        "averageItemLevel": 682,
+        "averageItemLevelEquipped": 681,
+        "head": {
+            "id": 113608,
+            "name": "Hood of Dispassionate Execution",
+            "icon": "inv_helm_mail_raidhuntermythic_o_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "transmogItem": 96628
+            },
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 145
+                },
+                {
+                    "stat": 63,
+                    "amount": 159
+                },
+                {
+                    "stat": 73,
+                    "amount": 279
+                },
+                {
+                    "stat": 36,
+                    "amount": 209
+                },
+                {
+                    "stat": 7,
+                    "amount": 418
+                }
+            ],
+            "armor": 189,
+            "context": "raid-mythic",
+            "bonusLists": [
+                40,
+                567
+            ]
+        },
+        "neck": {
+            "id": 113647,
+            "name": "Flechette-Riddled Chain",
+            "icon": "inv_6_0raid_necklace_2c",
+            "quality": 4,
+            "itemLevel": 676,
+            "tooltipParams": {
+                "enchant": 5320
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 82
+                },
+                {
+                    "stat": 3,
+                    "amount": 145
+                },
+                {
+                    "stat": 36,
+                    "amount": 105
+                },
+                {
+                    "stat": 7,
+                    "amount": 217
+                }
+            ],
+            "armor": 0,
+            "context": "raid-heroic",
+            "bonusLists": [
+                561,
+                566
+            ]
+        },
+        "shoulder": {
+            "id": 113641,
+            "name": "Living Mountain Shoulderguards",
+            "icon": "inv_shoulder_mail_raidhuntermythic_o_01",
+            "quality": 4,
+            "itemLevel": 691,
+            "tooltipParams": {
+                "transmogItem": 96630
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 164
+                },
+                {
+                    "stat": 73,
+                    "amount": 221
+                },
+                {
+                    "stat": 36,
+                    "amount": 119
+                },
+                {
+                    "stat": 7,
+                    "amount": 332
+                }
+            ],
+            "armor": 179,
+            "context": "raid-mythic",
+            "bonusLists": [
+                562,
+                567
+            ]
+        },
+        "back": {
+            "id": 113657,
+            "name": "Cloak of Creeping Necrosis",
+            "icon": "inv_cape_draenorraid_d_02_mail_red",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "enchant": 5313,
+                "tinker": 4897
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 84
+                },
+                {
+                    "stat": 40,
+                    "amount": 116
+                },
+                {
+                    "stat": 3,
+                    "amount": 157
+                },
+                {
+                    "stat": 7,
+                    "amount": 235
+                }
+            ],
+            "armor": 65,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "chest": {
+            "id": 116191,
+            "name": "Wayfaring Tunic of the Savage",
+            "icon": "inv_chest_mail_draenorcrafted_d_01_horde",
+            "quality": 4,
+            "itemLevel": 665,
+            "tooltipParams": {
+                "transmogItem": 96626
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 143
+                },
+                {
+                    "stat": 32,
+                    "amount": 161
+                },
+                {
+                    "stat": 73,
+                    "amount": 231
+                },
+                {
+                    "stat": 7,
+                    "amount": 347
+                }
+            ],
+            "armor": 214,
+            "context": "trade-skill",
+            "bonusLists": [
+                79,
+                527,
+                535
+            ]
+        },
+        "wrist": {
+            "id": 113826,
+            "name": "Bracers of the Crying Chorus",
+            "icon": "inv_bracer_mail_raidshamanmythic_o_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "transmogItem": 96797
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 116
+                },
+                {
+                    "stat": 73,
+                    "amount": 157
+                },
+                {
+                    "stat": 36,
+                    "amount": 84
+                },
+                {
+                    "stat": 7,
+                    "amount": 235
+                }
+            ],
+            "armor": 102,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "hands": {
+            "id": 113593,
+            "name": "Grips of Vicious Mauling",
+            "icon": "inv_glove_mail_raidhuntermythic_o_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "transmogItem": 96627
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 154
+                },
+                {
+                    "stat": 73,
+                    "amount": 209
+                },
+                {
+                    "stat": 36,
+                    "amount": 116
+                },
+                {
+                    "stat": 7,
+                    "amount": 314
+                }
+            ],
+            "armor": 145,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "waist": {
+            "id": 113827,
+            "name": "Belt of Imminent Lies",
+            "icon": "inv_belt_mail_raidhuntermythic_o_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "transmogItem": 45554
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 154
+                },
+                {
+                    "stat": 73,
+                    "amount": 209
+                },
+                {
+                    "stat": 36,
+                    "amount": 116
+                },
+                {
+                    "stat": 7,
+                    "amount": 314
+                }
+            ],
+            "armor": 131,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "legs": {
+            "id": 113839,
+            "name": "Leggings of Broken Magic",
+            "icon": "inv_pant_mail_raidshamanmythic_o_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "transmogItem": 96629
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 150
+                },
+                {
+                    "stat": 32,
+                    "amount": 207
+                },
+                {
+                    "stat": 73,
+                    "amount": 279
+                },
+                {
+                    "stat": 7,
+                    "amount": 418
+                }
+            ],
+            "armor": 203,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "feet": {
+            "id": 113849,
+            "name": "Face Kickers",
+            "icon": "inv_boot_mail_raidhunter_o_01",
+            "quality": 4,
+            "itemLevel": 670,
+            "tooltipParams": {
+                "transmogItem": 95009
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 106
+                },
+                {
+                    "stat": 32,
+                    "amount": 130
+                },
+                {
+                    "stat": 73,
+                    "amount": 182
+                },
+                {
+                    "stat": 7,
+                    "amount": 273
+                }
+            ],
+            "armor": 150,
+            "context": "raid-heroic",
+            "bonusLists": [
+                566
+            ]
+        },
+        "finger1": {
+            "id": 118302,
+            "name": "Spellbound Solium Band of Fatal Strikes",
+            "icon": "inv_misc_6oring_redlv3",
+            "quality": 4,
+            "itemLevel": 690,
+            "tooltipParams": {
+                "enchant": 5327
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 101
+                },
+                {
+                    "stat": 32,
+                    "amount": 114
+                },
+                {
+                    "stat": 3,
+                    "amount": 164
+                },
+                {
+                    "stat": 7,
+                    "amount": 246
+                }
+            ],
+            "armor": 0,
+            "context": "quest-reward",
+            "bonusLists": []
+        },
+        "finger2": {
+            "id": 113843,
+            "name": "Spell-Sink Signet",
+            "icon": "inv_ringwod_d3_3",
+            "quality": 4,
+            "itemLevel": 691,
+            "tooltipParams": {
+                "enchant": 5327
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 97
+                },
+                {
+                    "stat": 3,
+                    "amount": 166
+                },
+                {
+                    "stat": 36,
+                    "amount": 119
+                },
+                {
+                    "stat": 7,
+                    "amount": 249
+                }
+            ],
+            "armor": 0,
+            "context": "raid-mythic",
+            "bonusLists": [
+                562,
+                567
+            ]
+        },
+        "trinket1": {
+            "id": 113612,
+            "name": "Scales of Doom",
+            "icon": "inv_misc_trinket6oog_talisman1",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 3,
+                    "amount": 265
+                }
+            ],
+            "armor": 0,
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        },
+        "trinket2": {
+            "id": 118876,
+            "name": "Lucky Double-Sided Coin",
+            "icon": "inv_misc_coin_17",
+            "quality": 4,
+            "itemLevel": 665,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 220
+                }
+            ],
+            "armor": 0,
+            "context": "",
+            "bonusLists": []
+        },
+        "mainHand": {
+            "id": 113652,
+            "name": "Crystalline Branch of the Brackenspore",
+            "icon": "inv_bow_1h_draenorraid_d_01",
+            "quality": 4,
+            "itemLevel": 685,
+            "tooltipParams": {
+                "enchant": 5275
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 199
+                },
+                {
+                    "stat": 49,
+                    "amount": 163
+                },
+                {
+                    "stat": 3,
+                    "amount": 279
+                },
+                {
+                    "stat": 7,
+                    "amount": 418
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 1051,
+                    "max": 1954,
+                    "exactMin": 1051,
+                    "exactMax": 1953
+                },
+                "weaponSpeed": 3,
+                "dps": 500.66666
+            },
+            "context": "raid-mythic",
+            "bonusLists": [
+                567
+            ]
+        }
+    },
+    "stats": {
+        "health": 295380,
+        "powerType": "focus",
+        "power": 100,
+        "str": 889,
+        "agi": 4472,
+        "int": 850,
+        "sta": 4923,
+        "speedRating": 0,
+        "speedRatingBonus": 0,
+        "crit": 31.00909,
+        "critRating": 1651,
+        "haste": 8.68,
+        "hasteRating": 868,
+        "hasteRatingPercent": 8.68,
+        "mastery": 10.8,
+        "masteryRating": 308,
+        "spr": 710,
+        "bonusArmor": 0,
+        "multistrike": 12.166667,
+        "multistrikeRating": 803,
+        "multistrikeRatingBonus": 12.166667,
+        "leech": 0,
+        "leechRating": 0,
+        "leechRatingBonus": 0,
+        "versatility": 299,
+        "versatilityDamageDoneBonus": 2.3,
+        "versatilityHealingDoneBonus": 2.3,
+        "versatilityDamageTakenBonus": 1.15,
+        "avoidanceRating": 159,
+        "avoidanceRatingBonus": 1.445455,
+        "spellPower": 850,
+        "spellPen": 0,
+        "spellCrit": 31.00909,
+        "spellCritRating": 1651,
+        "mana5": 0,
+        "mana5Combat": 0,
+        "armor": 1382,
+        "dodge": 19.254229,
+        "dodgeRating": 0,
+        "parry": 0,
+        "parryRating": 0,
+        "block": 0,
+        "blockRating": 0,
+        "mainHandDmgMin": 4314,
+        "mainHandDmgMax": 4315,
+        "mainHandSpeed": 1.84,
+        "mainHandDps": 2344.7192,
+        "offHandDmgMin": 1438,
+        "offHandDmgMax": 1439,
+        "offHandSpeed": 1.84,
+        "offHandDps": 781.8246,
+        "rangedDmgMin": 5388,
+        "rangedDmgMax": 6312,
+        "rangedSpeed": 2.76,
+        "rangedDps": 2119.495,
+        "attackPower": 4919,
+        "rangedAttackPower": 4919
+    },
+    "hunterPets": [
+        {
+            "name": "Bacon",
+            "creature": 50138,
+            "slot": 2,
+            "spec": {
+                "name": "Ferocious Adaptation",
+                "role": "DPS",
+                "backgroundImage": "bg-rogue-assassination",
+                "icon": "ability_druid_ferociousbite",
+                "description": "Driven by a rabid persistence to pursue prey, these carnivorous beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Carwash",
+            "creature": 70014,
+            "slot": 0,
+            "spec": {
+                "name": "Tenacious Adaptation",
+                "role": "TANK",
+                "backgroundImage": "bg-rogue-assassination",
+                "icon": "ability_druid_maul",
+                "description": "Stalwart and veteran defenders who unquestionably place their thick hides and protective exteriors in harm's way for their allies.",
+                "order": 1
+            },
+            "calcSpec": "Z",
+            "familyId": 138,
+            "familyName": "Direhorn"
+        },
+        {
+            "name": "Cupcake",
+            "creature": 19423,
+            "slot": 1,
+            "spec": {
+                "name": "Ferocious Adaptation",
+                "role": "DPS",
+                "backgroundImage": "bg-rogue-assassination",
+                "icon": "ability_druid_ferociousbite",
+                "description": "Driven by a rabid persistence to pursue prey, these carnivorous beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 1,
+            "familyName": "Wolf"
+        },
+        {
+            "name": "Melkor",
+            "creature": 88708,
+            "slot": 4,
+            "spec": {
+                "name": "Ferocious Adaptation",
+                "role": "DPS",
+                "backgroundImage": "bg-rogue-assassination",
+                "icon": "ability_druid_ferociousbite",
+                "description": "Driven by a rabid persistence to pursue prey, these carnivorous beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Rwlrwlrwlrwl",
+            "creature": 22052,
+            "slot": 3,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 11,
+            "familyName": "Raptor"
+        },
+        {
+            "name": "Steak",
+            "creature": 21102,
+            "slot": 9,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 45,
+            "familyName": "Core Hound"
+        },
+        {
+            "name": "Water",
+            "creature": 18134,
+            "slot": 7,
+            "spec": {
+                "name": "Cunning",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_eyeoftheowl",
+                "description": "Guileful creatures capable of skillfully mitigating lethal blows dealt to themselves and their allies.",
+                "order": 2
+            },
+            "calcSpec": "b",
+            "familyId": 126,
+            "familyName": "Water Strider"
+        },
+        {
+            "name": "Angelwing",
+            "creature": 54320,
+            "slot": 12,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Cuddle",
+            "creature": 45582,
+            "slot": 25,
+            "spec": {
+                "name": "Cunning",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_eyeoftheowl",
+                "description": "Guileful creatures capable of skillfully mitigating lethal blows dealt to themselves and their allies.",
+                "order": 2
+            },
+            "calcSpec": "b",
+            "familyId": 3,
+            "familyName": "Spider"
+        },
+        {
+            "name": "LastChance",
+            "creature": 50843,
+            "slot": 14,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 128,
+            "familyName": "Quilen"
+        },
+        {
+            "name": "Lightning",
+            "creature": 35189,
+            "slot": 24,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Planefighter",
+            "creature": 42657,
+            "slot": 23,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 26,
+            "familyName": "Bird of Prey"
+        },
+        {
+            "name": "Serpent",
+            "creature": 25721,
+            "slot": 19,
+            "spec": {
+                "name": "Cunning",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_eyeoftheowl",
+                "description": "Guileful creatures capable of skillfully mitigating lethal blows dealt to themselves and their allies.",
+                "order": 2
+            },
+            "calcSpec": "b",
+            "familyId": 35,
+            "familyName": "Serpent"
+        },
+        {
+            "name": "Spanks",
+            "creature": 7433,
+            "slot": 6,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 2,
+            "familyName": "Cat"
+        },
+        {
+            "name": "Tankator",
+            "creature": 44626,
+            "slot": 18,
+            "spec": {
+                "name": "Tenacity",
+                "role": "TANK",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_demoralizingroar",
+                "description": "Stalwart and veteran defenders who unquestionably place their thick hides and protective exteriors in harm's way for their allies.",
+                "order": 1
+            },
+            "calcSpec": "Z",
+            "familyId": 21,
+            "familyName": "Turtle"
+        },
+        {
+            "name": "Boomstick",
+            "creature": 16933,
+            "slot": 15,
+            "calcSpec": "",
+            "familyId": 31,
+            "familyName": "Ravager"
+        },
+        {
+            "name": "CRITmon",
+            "creature": 43417,
+            "slot": 11,
+            "spec": {
+                "name": "Cunning",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_eyeoftheowl",
+                "description": "Guileful creatures capable of skillfully mitigating lethal blows dealt to themselves and their allies.",
+                "order": 2
+            },
+            "calcSpec": "b",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "Eyenoobity",
+            "creature": 43417,
+            "slot": 22,
+            "calcSpec": "",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "Goldstriker",
+            "creature": 45859,
+            "slot": 10,
+            "calcSpec": "",
+            "familyId": 20,
+            "familyName": "Scorpid"
+        },
+        {
+            "name": "Katvleugel",
+            "creature": 33776,
+            "slot": 5,
+            "calcSpec": "",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Madexx",
+            "creature": 51401,
+            "slot": 8,
+            "calcSpec": "",
+            "familyId": 20,
+            "familyName": "Scorpid"
+        },
+        {
+            "name": "Ravager",
+            "creature": 16932,
+            "slot": 13,
+            "calcSpec": "",
+            "familyId": 31,
+            "familyName": "Ravager"
+        },
+        {
+            "name": "RPG",
+            "creature": 45096,
+            "slot": 21,
+            "calcSpec": "",
+            "familyId": 2,
+            "familyName": "Cat"
+        },
+        {
+            "name": "Silithid",
+            "creature": 15544,
+            "slot": 16,
+            "calcSpec": "",
+            "familyId": 41,
+            "familyName": "Silithid"
+        },
+        {
+            "name": "Silithid",
+            "creature": 15511,
+            "slot": 17,
+            "calcSpec": "",
+            "familyId": 41,
+            "familyName": "Silithid"
+        },
+        {
+            "name": "Sugar",
+            "creature": 43417,
+            "slot": 20,
+            "calcSpec": "",
+            "familyId": 51,
+            "familyName": "Monkey"
+        }
+    ],
+    "professions": {
+        "primary": [
+            {
+                "id": 202,
+                "name": "Engineering",
+                "icon": "trade_engineering",
+                "rank": 700,
+                "max": 675,
+                "recipes": [
+                    3918,
+                    3919,
+                    3922,
+                    3923,
+                    3925,
+                    3929,
+                    3931,
+                    3932,
+                    3934,
+                    3936,
+                    3937,
+                    3938,
+                    3939,
+                    3941,
+                    3942,
+                    3945,
+                    3946,
+                    3949,
+                    3950,
+                    3953,
+                    3955,
+                    3956,
+                    3958,
+                    3961,
+                    3962,
+                    3963,
+                    3965,
+                    3967,
+                    3973,
+                    3977,
+                    3978,
+                    3979,
+                    6458,
+                    7430,
+                    8334,
+                    9269,
+                    9271,
+                    12584,
+                    12585,
+                    12586,
+                    12589,
+                    12590,
+                    12591,
+                    12594,
+                    12595,
+                    12599,
+                    12603,
+                    12614,
+                    12615,
+                    12617,
+                    12618,
+                    12619,
+                    12622,
+                    12759,
+                    12895,
+                    12897,
+                    12899,
+                    12902,
+                    12903,
+                    12905,
+                    12906,
+                    12907,
+                    15255,
+                    19788,
+                    19790,
+                    19791,
+                    19792,
+                    19794,
+                    19795,
+                    19825,
+                    22704,
+                    23067,
+                    23070,
+                    23071,
+                    23129,
+                    28327,
+                    30303,
+                    30304,
+                    30305,
+                    30306,
+                    30307,
+                    30308,
+                    30309,
+                    30310,
+                    30311,
+                    30312,
+                    30334,
+                    30551,
+                    30552,
+                    30556,
+                    30568,
+                    30569,
+                    30570,
+                    30574,
+                    30575,
+                    39895,
+                    39971,
+                    39973,
+                    41307,
+                    41314,
+                    44155,
+                    44157,
+                    44391,
+                    53281,
+                    54353,
+                    54736,
+                    54793,
+                    55002,
+                    55016,
+                    55252,
+                    56349,
+                    56459,
+                    56460,
+                    56461,
+                    56462,
+                    56463,
+                    56464,
+                    56466,
+                    56467,
+                    56468,
+                    56469,
+                    56470,
+                    56471,
+                    56472,
+                    56473,
+                    56476,
+                    56477,
+                    56478,
+                    56479,
+                    56574,
+                    60874,
+                    61471,
+                    61482,
+                    63750,
+                    67326,
+                    67839,
+                    67920,
+                    68067,
+                    81716,
+                    82200,
+                    84403,
+                    84406,
+                    84408,
+                    84409,
+                    84410,
+                    84411,
+                    84413,
+                    84415,
+                    84416,
+                    84417,
+                    84418,
+                    84420,
+                    84421,
+                    84424,
+                    84425,
+                    84427,
+                    84428,
+                    84429,
+                    84430,
+                    84431,
+                    84432,
+                    94748,
+                    95703,
+                    95705,
+                    109099,
+                    126392,
+                    127113,
+                    127114,
+                    127115,
+                    127116,
+                    127120,
+                    127124,
+                    127127,
+                    127128,
+                    127129,
+                    127130,
+                    127131,
+                    127132,
+                    127134,
+                    127135,
+                    127136,
+                    127137,
+                    127139,
+                    131211,
+                    131212,
+                    131213,
+                    131214,
+                    131215,
+                    131216,
+                    131217,
+                    131218,
+                    131353,
+                    131563,
+                    139176,
+                    139192,
+                    139196,
+                    139197,
+                    143714,
+                    162195,
+                    162196,
+                    162197,
+                    162198,
+                    162199,
+                    162202,
+                    162203,
+                    162204,
+                    162205,
+                    162206,
+                    162207,
+                    162209,
+                    162210,
+                    162214,
+                    162216,
+                    162217,
+                    162218,
+                    169076,
+                    169077,
+                    169078,
+                    169080,
+                    169140,
+                    173289,
+                    173308,
+                    173309,
+                    176732,
+                    177054,
+                    177363,
+                    177364
+                ]
+            },
+            {
+                "id": 165,
+                "name": "Leatherworking",
+                "icon": "trade_leatherworking",
+                "rank": 700,
+                "max": 675,
+                "recipes": [
+                    2149,
+                    2152,
+                    2153,
+                    2159,
+                    2160,
+                    2161,
+                    2162,
+                    2165,
+                    2166,
+                    2167,
+                    2168,
+                    2881,
+                    3753,
+                    3756,
+                    3759,
+                    3760,
+                    3761,
+                    3763,
+                    3764,
+                    3766,
+                    3768,
+                    3770,
+                    3774,
+                    3776,
+                    3780,
+                    3816,
+                    3817,
+                    3818,
+                    6661,
+                    7126,
+                    7135,
+                    7147,
+                    7151,
+                    7156,
+                    9058,
+                    9059,
+                    9065,
+                    9068,
+                    9074,
+                    9145,
+                    9196,
+                    9198,
+                    9201,
+                    9206,
+                    10482,
+                    10487,
+                    10499,
+                    10507,
+                    10511,
+                    10518,
+                    10548,
+                    10552,
+                    10556,
+                    10558,
+                    10630,
+                    10632,
+                    10647,
+                    10650,
+                    19047,
+                    19052,
+                    19055,
+                    19058,
+                    19065,
+                    19071,
+                    19072,
+                    19082,
+                    19083,
+                    19091,
+                    19092,
+                    19098,
+                    19102,
+                    19103,
+                    20648,
+                    20649,
+                    20650,
+                    22331,
+                    24654,
+                    24655,
+                    32454,
+                    32455,
+                    32456,
+                    32462,
+                    32463,
+                    32464,
+                    32465,
+                    32466,
+                    32467,
+                    32468,
+                    32469,
+                    32470,
+                    32471,
+                    32472,
+                    32473,
+                    32478,
+                    32479,
+                    32480,
+                    32481,
+                    35540,
+                    36074,
+                    36075,
+                    36076,
+                    36077,
+                    36078,
+                    36079,
+                    44770,
+                    44953,
+                    44970,
+                    45100,
+                    50936,
+                    50938,
+                    50939,
+                    50940,
+                    50941,
+                    50942,
+                    50943,
+                    50944,
+                    50945,
+                    50946,
+                    50947,
+                    50948,
+                    50949,
+                    50950,
+                    50951,
+                    50952,
+                    50953,
+                    50954,
+                    50955,
+                    50956,
+                    50957,
+                    50958,
+                    50959,
+                    50960,
+                    50961,
+                    50962,
+                    50963,
+                    50964,
+                    50965,
+                    50966,
+                    50967,
+                    51568,
+                    51569,
+                    51570,
+                    51571,
+                    51572,
+                    55199,
+                    60599,
+                    60600,
+                    60601,
+                    60604,
+                    60605,
+                    60607,
+                    60608,
+                    60611,
+                    60613,
+                    60620,
+                    60622,
+                    60624,
+                    60627,
+                    60629,
+                    60630,
+                    60631,
+                    60637,
+                    60640,
+                    60643,
+                    60649,
+                    60651,
+                    60652,
+                    60655,
+                    60658,
+                    60660,
+                    60665,
+                    60666,
+                    60669,
+                    60671,
+                    62448,
+                    63196,
+                    64661,
+                    69386,
+                    69388,
+                    78379,
+                    78380,
+                    78388,
+                    78396,
+                    78398,
+                    78399,
+                    78405,
+                    78406,
+                    78407,
+                    78410,
+                    78411,
+                    78415,
+                    78416,
+                    78419,
+                    78420,
+                    78423,
+                    78424,
+                    78427,
+                    78428,
+                    78432,
+                    78433,
+                    78436,
+                    78437,
+                    78438,
+                    78439,
+                    84950,
+                    99535,
+                    99536,
+                    124124,
+                    124125,
+                    124126,
+                    124127,
+                    124128,
+                    124129,
+                    124559,
+                    124561,
+                    124563,
+                    124571,
+                    124572,
+                    124573,
+                    124574,
+                    124575,
+                    124576,
+                    124577,
+                    124578,
+                    124579,
+                    124580,
+                    124581,
+                    124582,
+                    124583,
+                    124584,
+                    124585,
+                    124586,
+                    124621,
+                    124622,
+                    124627,
+                    124628,
+                    124635,
+                    124636,
+                    124637,
+                    124639,
+                    124640,
+                    124641,
+                    131865,
+                    137809,
+                    137810,
+                    137811,
+                    137812,
+                    137813,
+                    137814,
+                    137815,
+                    137816,
+                    137817,
+                    137818,
+                    137819,
+                    137820,
+                    137821,
+                    137822,
+                    137823,
+                    137824,
+                    137825,
+                    137826,
+                    137827,
+                    137828,
+                    137829,
+                    137830,
+                    137831,
+                    137832,
+                    137833,
+                    137834,
+                    137835,
+                    137836,
+                    137837,
+                    137838,
+                    137839,
+                    137840,
+                    137841,
+                    137842,
+                    137843,
+                    137844,
+                    137845,
+                    137846,
+                    137847,
+                    137848,
+                    137849,
+                    137850,
+                    137851,
+                    137852,
+                    137853,
+                    137854,
+                    137855,
+                    137856,
+                    137857,
+                    137858,
+                    137859,
+                    137860,
+                    137861,
+                    137862,
+                    137863,
+                    137864,
+                    137865,
+                    137866,
+                    137867,
+                    137868,
+                    137869,
+                    137870,
+                    137871,
+                    137872,
+                    137873,
+                    137874,
+                    137875,
+                    137876,
+                    137877,
+                    137878,
+                    137879,
+                    137880,
+                    137881,
+                    137882,
+                    138589,
+                    138590,
+                    138591,
+                    138592,
+                    138593,
+                    138594,
+                    138595,
+                    138596,
+                    140040,
+                    140041,
+                    140185,
+                    142952,
+                    142953,
+                    142956,
+                    142957,
+                    142961,
+                    142962,
+                    142965,
+                    142966,
+                    142976,
+                    143089,
+                    143090,
+                    143091,
+                    143092,
+                    143093,
+                    143094,
+                    143095,
+                    143096,
+                    143097,
+                    143098,
+                    143099,
+                    143100,
+                    143101,
+                    143102,
+                    143103,
+                    143104,
+                    143105,
+                    143106,
+                    143107,
+                    143108,
+                    143109,
+                    143110,
+                    143111,
+                    143112,
+                    143113,
+                    143114,
+                    143115,
+                    143116,
+                    143117,
+                    143118,
+                    143119,
+                    143120,
+                    143121,
+                    143122,
+                    143123,
+                    143124,
+                    143125,
+                    143126,
+                    143127,
+                    143128,
+                    143129,
+                    143130,
+                    143131,
+                    143132,
+                    143133,
+                    143134,
+                    143135,
+                    143136,
+                    143137,
+                    143138,
+                    143139,
+                    143140,
+                    143141,
+                    143142,
+                    143143,
+                    143144,
+                    143145,
+                    143146,
+                    143147,
+                    143148,
+                    143149,
+                    143150,
+                    143151,
+                    143152,
+                    143153,
+                    143154,
+                    143155,
+                    143156,
+                    143157,
+                    143158,
+                    143159,
+                    143160,
+                    143161,
+                    143162,
+                    146613,
+                    146923,
+                    171260,
+                    171261,
+                    171262,
+                    171263,
+                    171264,
+                    171265,
+                    171266,
+                    171267,
+                    171268,
+                    171269,
+                    171270,
+                    171271,
+                    171272,
+                    171273,
+                    171274,
+                    171275,
+                    171276,
+                    171277,
+                    171278,
+                    171279,
+                    171280,
+                    171281,
+                    171282,
+                    171283,
+                    171284,
+                    171285,
+                    171286,
+                    171287,
+                    171288,
+                    171289,
+                    171290,
+                    171291,
+                    171391,
+                    176089,
+                    178208
+                ]
+            }
+        ],
+        "secondary": [
+            {
+                "id": 129,
+                "name": "First Aid",
+                "icon": "spell_holy_sealofsacrifice",
+                "rank": 700,
+                "max": 675,
+                "recipes": [
+                    3275,
+                    3276,
+                    3277,
+                    3278,
+                    7928,
+                    7929,
+                    7934,
+                    10840,
+                    10841,
+                    18629,
+                    18630,
+                    27032,
+                    27033,
+                    45545,
+                    45546,
+                    74556,
+                    74557,
+                    74558,
+                    88893,
+                    102697,
+                    102699,
+                    172539,
+                    172540,
+                    172541,
+                    172542
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Archaeology",
+                "icon": "trade_archaeology",
+                "rank": 22,
+                "max": 75,
+                "recipes": []
+            },
+            {
+                "id": 356,
+                "name": "Fishing",
+                "icon": "trade_fishing",
+                "rank": 309,
+                "max": 375,
+                "recipes": []
+            },
+            {
+                "id": 185,
+                "name": "Cooking",
+                "icon": "inv_misc_food_15",
+                "rank": 600,
+                "max": 675,
+                "recipes": [
+                    2538,
+                    2539,
+                    2540,
+                    2541,
+                    2544,
+                    2546,
+                    2795,
+                    3373,
+                    3377,
+                    3399,
+                    3400,
+                    4094,
+                    6412,
+                    6415,
+                    6499,
+                    6500,
+                    8604,
+                    18238,
+                    18240,
+                    18241,
+                    18243,
+                    18244,
+                    18247,
+                    21175,
+                    25954,
+                    33287,
+                    37836,
+                    42296,
+                    42302,
+                    42305,
+                    45022,
+                    45549,
+                    45550,
+                    45551,
+                    45552,
+                    45553,
+                    45554,
+                    45560,
+                    45561,
+                    45562,
+                    45563,
+                    45564,
+                    45565,
+                    45566,
+                    45569,
+                    46684,
+                    46688,
+                    58065,
+                    64358,
+                    88006,
+                    88015,
+                    93741,
+                    104237,
+                    104297,
+                    104298,
+                    104299,
+                    104300,
+                    104301,
+                    104302,
+                    104303,
+                    104304,
+                    104305,
+                    104306,
+                    104307,
+                    104308,
+                    104309,
+                    104310,
+                    104311,
+                    104312,
+                    124052,
+                    124053,
+                    124054,
+                    124223,
+                    124224,
+                    124225,
+                    124226,
+                    124227,
+                    124228,
+                    124229,
+                    124230,
+                    124231,
+                    124232,
+                    124233,
+                    124234,
+                    125067,
+                    125078,
+                    125080,
+                    125117,
+                    125121,
+                    125122,
+                    125141,
+                    125142,
+                    125594,
+                    125595,
+                    125596,
+                    125597,
+                    125598,
+                    125599,
+                    125600,
+                    125601,
+                    125602,
+                    125603,
+                    145038,
+                    145061,
+                    145062,
+                    161001,
+                    161002
+                ]
+            }
+        ]
+    },
+    "talents": [
+        {
+            "selected": true,
+            "talents": [
+                {
+                    "tier": 4,
+                    "column": 0,
+                    "spell": {
+                        "id": 131894,
+                        "name": "A Murder of Crows",
+                        "icon": "ability_hunter_murderofcrows",
+                        "description": "Summons a flock of crows to attack your target over the next 15 sec. If the target dies while under attack, A Murder of Crows' cooldown is reset.",
+                        "range": "40 yd range",
+                        "powerCost": "30 Focus",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 109260,
+                        "name": "Iron Hawk",
+                        "icon": "spell_hunter_aspectoftheironhawk",
+                        "description": "Reduces all damage taken by 10%.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 109248,
+                        "name": "Binding Shot",
+                        "icon": "spell_shaman_bindelemental",
+                        "description": "Fires a magical projectile, tethering the enemy and any other enemies within 5 yards for 10 sec, stunning them for 5 sec if they move more than 5 yards from the arrow.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "45 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 2,
+                    "spell": {
+                        "id": 109306,
+                        "name": "Thrill of the Hunt",
+                        "icon": "ability_hunter_thrillofthehunt",
+                        "description": "You have a 6% chance per 10 Focus spent on Focus-costing attacks to trigger Thrill of the Hunt.\n\n\n\nThrill of the Hunt reduces the Focus cost of your next 3 Arcane Shots, Aimed Shots, or Multi-Shots by 20.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 2,
+                    "spell": {
+                        "id": 118675,
+                        "name": "Crouching Tiger, Hidden Chimaera",
+                        "icon": "ability_hunter_pet_chimera",
+                        "description": "Reduces the cooldown of Disengage by 10 sec, and the cooldown of Deterrence by 60 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 120360,
+                        "name": "Barrage",
+                        "icon": "ability_hunter_rapidregeneration",
+                        "description": "Rapidly fires a spray of shots for 2.88 sec, dealing 23,932 Physical damage to the enemy target and an average of 11,966 Physical damage to each other enemy target in front of you.  Usable while moving.",
+                        "range": "40 yd range",
+                        "powerCost": "60 Focus",
+                        "castTime": "Channeled",
+                        "cooldown": "20 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 2,
+                    "spell": {
+                        "id": 155228,
+                        "name": "Lone Wolf",
+                        "icon": "spell_hunter_lonewolf",
+                        "description": "While you don't have a pet active, your damage dealt with Auto Shot, Arcane Shot, Cobra Shot, Black Arrow, and Explosive Shot is increased by 30% and you are able to provide one of several beneficial effects to your party and raid.",
+                        "castTime": "Passive"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 358,
+                        "item": 42904,
+                        "name": "Glyph of Disengage",
+                        "icon": "ability_rogue_feint"
+                    },
+                    {
+                        "glyph": 1104,
+                        "item": 104276,
+                        "name": "Glyph of Enduring Deceit",
+                        "icon": "ability_hunter_camouflage"
+                    },
+                    {
+                        "glyph": 357,
+                        "item": 42903,
+                        "name": "Glyph of Deterrence",
+                        "icon": "ability_whirlwind"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 692,
+                        "item": 45732,
+                        "name": "Glyph of Aspect of the Cheetah",
+                        "icon": "ability_mount_jungletiger"
+                    },
+                    {
+                        "glyph": 1128,
+                        "item": 110819,
+                        "name": "Glyph of Play Dead",
+                        "icon": "ability_rogue_feigndeath"
+                    },
+                    {
+                        "glyph": 443,
+                        "item": 43355,
+                        "name": "Glyph of Aspect of the Pack",
+                        "icon": "ability_mount_whitetiger"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Survival",
+                "role": "DPS",
+                "backgroundImage": "bg-hunter-survival",
+                "icon": "ability_hunter_camouflage",
+                "description": "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+                "order": 2
+            },
+            "calcTalent": "2012022",
+            "calcSpec": "b",
+            "calcGlyph": "WqdNJl"
+        },
+        {
+            "talents": [
+                {
+                    "tier": 3,
+                    "column": 2,
+                    "spell": {
+                        "id": 109306,
+                        "name": "Thrill of the Hunt",
+                        "icon": "ability_hunter_thrillofthehunt",
+                        "description": "You have a 6% chance per 10 Focus spent on Focus-costing attacks to trigger Thrill of the Hunt.\n\n\n\nThrill of the Hunt reduces the Focus cost of your next 3 Arcane Shots, Aimed Shots, or Multi-Shots by 20.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 109248,
+                        "name": "Binding Shot",
+                        "icon": "spell_shaman_bindelemental",
+                        "description": "Fires a magical projectile, tethering the enemy and any other enemies within 5 yards for 10 sec, stunning them for 5 sec if they move more than 5 yards from the arrow.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "45 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 2,
+                    "spell": {
+                        "id": 118675,
+                        "name": "Crouching Tiger, Hidden Chimaera",
+                        "icon": "ability_hunter_pet_chimera",
+                        "description": "Reduces the cooldown of Disengage by 10 sec, and the cooldown of Deterrence by 60 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 120360,
+                        "name": "Barrage",
+                        "icon": "ability_hunter_rapidregeneration",
+                        "description": "Rapidly fires a spray of shots for 2.88 sec, dealing 23,932 Physical damage to the enemy target and an average of 11,966 Physical damage to each other enemy target in front of you.  Usable while moving.",
+                        "range": "40 yd range",
+                        "powerCost": "60 Focus",
+                        "castTime": "Channeled",
+                        "cooldown": "20 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 2,
+                    "spell": {
+                        "id": 121818,
+                        "name": "Stampede",
+                        "icon": "ability_hunter_bestialdiscipline",
+                        "description": "Summons all of your pets to fight your current target for 20 sec. While in an Arena or Battleground, these pets deal only 25% of their normal damage.",
+                        "range": "40 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "5 min cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 109260,
+                        "name": "Iron Hawk",
+                        "icon": "spell_hunter_aspectoftheironhawk",
+                        "description": "Reduces all damage taken by 10%.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 2,
+                    "spell": {
+                        "id": 152244,
+                        "name": "Adaptation",
+                        "icon": "spell_hunter_adaptation",
+                        "description": "Increases the effect of your pet's Combat Experience to 85% increased damage. Your pet now gains the following abilities, regardless of its active spec:\n\n\n\nSpiked Collar\n\nRoar of Sacrifice\n\nCornered\n\nBoar's Speed\n\nLast Stand\n\nBlood of the Rhino\n\nGreat Stamina",
+                        "castTime": "Passive"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 363,
+                        "item": 0,
+                        "name": "Glyph of Animal Bond",
+                        "icon": "ability_druid_demoralizingroar"
+                    },
+                    {
+                        "glyph": 358,
+                        "item": 42904,
+                        "name": "Glyph of Disengage",
+                        "icon": "ability_rogue_feint"
+                    },
+                    {
+                        "glyph": 357,
+                        "item": 42903,
+                        "name": "Glyph of Deterrence",
+                        "icon": "ability_whirlwind"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 692,
+                        "item": 45732,
+                        "name": "Glyph of Aspect of the Cheetah",
+                        "icon": "ability_mount_jungletiger"
+                    },
+                    {
+                        "glyph": 443,
+                        "item": 43355,
+                        "name": "Glyph of Aspect of the Pack",
+                        "icon": "ability_mount_whitetiger"
+                    },
+                    {
+                        "glyph": 1128,
+                        "item": 110819,
+                        "name": "Glyph of Play Dead",
+                        "icon": "ability_rogue_feigndeath"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Beast Mastery",
+                "role": "DPS",
+                "backgroundImage": "bg-hunter-beastmaster",
+                "icon": "ability_hunter_bestialdiscipline",
+                "description": "A master of the wild who can tame a wide variety of beasts to assist him in combat.",
+                "order": 0
+            },
+            "calcTalent": "2012222",
+            "calcSpec": "a",
+            "calcGlyph": "gWdNlJ"
+        }
+    ],
+    "created_at": "2015-01-12T22:16:20.464Z",
+    "updated_at": "2015-01-12T22:16:20.464Z",
+    "class": 3
+}

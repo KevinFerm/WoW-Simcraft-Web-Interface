@@ -1,0 +1,1593 @@
+{
+    "id": 5,
+    "name": "netfive",
+    "region": "eu",
+    "realm": "defias-brotherhood",
+    "gender": 1,
+    "thumbnail": "scarshield-legion/125/111661437-avatar.jpg",
+    "calcClass": "Y",
+    "charClass": 3,
+    "race": 22,
+    "level": 100,
+    "achievementPoints": 8905,
+    "items": {
+        "averageItemLevel": 639,
+        "averageItemLevelEquipped": 639,
+        "head": {
+            "id": 116027,
+            "name": "Gorian Royal Crown",
+            "icon": "inv_helm_leather_draenorlfr_c_01",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 96
+                },
+                {
+                    "stat": 73,
+                    "amount": 184
+                },
+                {
+                    "stat": 36,
+                    "amount": 138
+                },
+                {
+                    "stat": 7,
+                    "amount": 275
+                }
+            ],
+            "armor": 157,
+            "context": "raid-finder",
+            "bonusLists": []
+        },
+        "neck": {
+            "id": 109952,
+            "name": "Skulltooth Chain",
+            "icon": "inv_60dungeon_neck2b",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "enchant": 5294
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 64
+                },
+                {
+                    "stat": 49,
+                    "amount": 61
+                },
+                {
+                    "stat": 3,
+                    "amount": 94
+                },
+                {
+                    "stat": 7,
+                    "amount": 141
+                }
+            ],
+            "armor": 0,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "shoulder": {
+            "id": 116028,
+            "name": "Shoulderguards of Perpetually Exploding Fungus",
+            "icon": "inv_shoulder_leather_draenorlfr_c_01",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 76
+                },
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 73,
+                    "amount": 138
+                },
+                {
+                    "stat": 7,
+                    "amount": 207
+                }
+            ],
+            "armor": 145,
+            "context": "raid-finder",
+            "bonusLists": []
+        },
+        "back": {
+            "id": 109905,
+            "name": "Deadshot Greatcloak",
+            "icon": "inv_cape_draenordungeon_c_04leather_base",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "enchant": 5302
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 57
+                },
+                {
+                    "stat": 3,
+                    "amount": 94
+                },
+                {
+                    "stat": 36,
+                    "amount": 66
+                },
+                {
+                    "stat": 7,
+                    "amount": 141
+                }
+            ],
+            "armor": 44,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "chest": {
+            "id": 109891,
+            "name": "Morningscale Chestguard",
+            "icon": "inv_chest_mail_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 636,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 115
+                },
+                {
+                    "stat": 49,
+                    "amount": 120
+                },
+                {
+                    "stat": 73,
+                    "amount": 177
+                },
+                {
+                    "stat": 7,
+                    "amount": 265
+                }
+            ],
+            "armor": 190,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                499,
+                524
+            ]
+        },
+        "tabard": {
+            "id": 64882,
+            "name": "Gilneas Tabard",
+            "icon": "inv_misc_tabard_gilneas",
+            "quality": 1,
+            "itemLevel": 1,
+            "tooltipParams": {},
+            "stats": [],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "wrist": {
+            "id": 109875,
+            "name": "Lavalink Bracers",
+            "icon": "inv_bracer_mail_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 636,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 53
+                },
+                {
+                    "stat": 40,
+                    "amount": 74
+                },
+                {
+                    "stat": 73,
+                    "amount": 99
+                },
+                {
+                    "stat": 7,
+                    "amount": 149
+                }
+            ],
+            "armor": 83,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                499,
+                524
+            ]
+        },
+        "hands": {
+            "id": 116025,
+            "name": "Pulverizing Grips",
+            "icon": "inv_glove_leather_draenorlfr_c_01",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 104
+                },
+                {
+                    "stat": 73,
+                    "amount": 138
+                },
+                {
+                    "stat": 36,
+                    "amount": 72
+                },
+                {
+                    "stat": 7,
+                    "amount": 207
+                }
+            ],
+            "armor": 121,
+            "context": "raid-finder",
+            "bonusLists": []
+        },
+        "waist": {
+            "id": 109843,
+            "name": "Morningscale Waistguard",
+            "icon": "inv_belt_mail_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 89
+                },
+                {
+                    "stat": 73,
+                    "amount": 126
+                },
+                {
+                    "stat": 36,
+                    "amount": 76
+                },
+                {
+                    "stat": 7,
+                    "amount": 189
+                }
+            ],
+            "armor": 104,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "legs": {
+            "id": 109816,
+            "name": "Lavalink Kilt",
+            "icon": "inv_pant_mail_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 127
+                },
+                {
+                    "stat": 49,
+                    "amount": 85
+                },
+                {
+                    "stat": 63,
+                    "amount": 95
+                },
+                {
+                    "stat": 73,
+                    "amount": 167
+                },
+                {
+                    "stat": 7,
+                    "amount": 251
+                }
+            ],
+            "armor": 162,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                40,
+                524
+            ]
+        },
+        "feet": {
+            "id": 116026,
+            "name": "Bonebreaker Boots",
+            "icon": "inv_boot_mail_draenordungeon_c_01",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {
+                "gem0": 115806
+            },
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 74
+                },
+                {
+                    "stat": 73,
+                    "amount": 138
+                },
+                {
+                    "stat": 36,
+                    "amount": 102
+                },
+                {
+                    "stat": 7,
+                    "amount": 207
+                }
+            ],
+            "armor": 133,
+            "context": "raid-finder",
+            "bonusLists": [
+                563
+            ]
+        },
+        "finger1": {
+            "id": 115771,
+            "name": "Primal Gladiator's Ring of Prowess",
+            "icon": "inv_60pvp_ring4d",
+            "quality": 4,
+            "itemLevel": 660,
+            "tooltipParams": {
+                "enchant": 5301
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 89
+                },
+                {
+                    "stat": 32,
+                    "amount": 77
+                },
+                {
+                    "stat": 3,
+                    "amount": 124
+                },
+                {
+                    "stat": 7,
+                    "amount": 186
+                }
+            ],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "finger2": {
+            "id": 118297,
+            "name": "Timeless Solium Band of the Assassin",
+            "icon": "inv_misc_6oring_redlv2",
+            "quality": 4,
+            "itemLevel": 680,
+            "tooltipParams": {
+                "enchant": 5301
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 93
+                },
+                {
+                    "stat": 32,
+                    "amount": 104
+                },
+                {
+                    "stat": 3,
+                    "amount": 150
+                },
+                {
+                    "stat": 7,
+                    "amount": 225
+                }
+            ],
+            "armor": 0,
+            "context": "quest-reward",
+            "bonusLists": []
+        },
+        "trinket1": {
+            "id": 109995,
+            "name": "Blood Seal of Azzakel",
+            "icon": "spell_deathknight_runetap",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 159
+                },
+                {
+                    "stat": 3,
+                    "amount": 159
+                }
+            ],
+            "armor": 0,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "trinket2": {
+            "id": 112318,
+            "name": "Skull of War",
+            "icon": "inv_inscription_trinket_melee",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 72,
+                    "amount": 175
+                }
+            ],
+            "armor": 0,
+            "context": "trade-skill",
+            "bonusLists": [
+                525,
+                530
+            ]
+        },
+        "mainHand": {
+            "id": 109168,
+            "name": "Shrediron's Shredder of the Savage",
+            "icon": "inv_firearm_2h_rifle_draenorcrafted_d_01_a_alliance",
+            "quality": 4,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "enchant": 5275
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 109
+                },
+                {
+                    "stat": 32,
+                    "amount": 113
+                },
+                {
+                    "stat": 3,
+                    "amount": 167
+                },
+                {
+                    "stat": 7,
+                    "amount": 251
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 609,
+                    "max": 1134,
+                    "exactMin": 609,
+                    "exactMax": 1133
+                },
+                "weaponSpeed": 2.9,
+                "dps": 300.34482
+            },
+            "context": "trade-skill",
+            "bonusLists": [
+                77,
+                525,
+                532
+            ]
+        }
+    },
+    "stats": {
+        "health": 215040,
+        "powerType": "focus",
+        "power": 100,
+        "str": 889,
+        "agi": 3582,
+        "int": 850,
+        "sta": 3584,
+        "speedRating": 0,
+        "speedRatingBonus": 0,
+        "crit": 23.027273,
+        "critRating": 773,
+        "haste": 4.540001,
+        "hasteRating": 454,
+        "hasteRatingPercent": 4.54,
+        "mastery": 13.072727,
+        "masteryRating": 558,
+        "spr": 710,
+        "bonusArmor": 0,
+        "multistrike": 10.439394,
+        "multistrikeRating": 689,
+        "multistrikeRatingBonus": 10.439394,
+        "leech": 0,
+        "leechRating": 0,
+        "leechRatingBonus": 0,
+        "versatility": 288,
+        "versatilityDamageDoneBonus": 2.215385,
+        "versatilityHealingDoneBonus": 2.215385,
+        "versatilityDamageTakenBonus": 1.107692,
+        "avoidanceRating": 95,
+        "avoidanceRatingBonus": 0.863636,
+        "spellPower": 850,
+        "spellPen": 0,
+        "spellCrit": 23.027273,
+        "spellCritRating": 773,
+        "mana5": 0,
+        "mana5Combat": 0,
+        "armor": 1139,
+        "dodge": 15.093446,
+        "dodgeRating": 0,
+        "parry": 0,
+        "parryRating": 0,
+        "block": 0,
+        "blockRating": 0,
+        "mainHandDmgMin": 3337,
+        "mainHandDmgMax": 3338,
+        "mainHandSpeed": 1.913,
+        "mainHandDps": 1744.8597,
+        "offHandDmgMin": 1151,
+        "offHandDmgMax": 1152,
+        "offHandSpeed": 1.913,
+        "offHandDps": 601.7587,
+        "rangedDmgMin": 3959,
+        "rangedDmgMax": 4495,
+        "rangedSpeed": 2.774,
+        "rangedDps": 1523.8611,
+        "attackPower": 3940,
+        "rangedAttackPower": 3940
+    },
+    "hunterPets": [
+        {
+            "name": "CareWolf",
+            "creature": 18476,
+            "selected": true,
+            "slot": 1,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 1,
+            "familyName": "Wolf"
+        },
+        {
+            "name": "Carewolf",
+            "creature": 3809,
+            "slot": 4,
+            "spec": {
+                "name": "Tenacity",
+                "role": "TANK",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_demoralizingroar",
+                "description": "Stalwart and veteran defenders who unquestionably place their thick hides and protective exteriors in harm's way for their allies.",
+                "order": 1
+            },
+            "calcSpec": "Z",
+            "familyId": 4,
+            "familyName": "Bear"
+        },
+        {
+            "name": "Lightning",
+            "creature": 35189,
+            "slot": 3,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 46,
+            "familyName": "Spirit Beast"
+        },
+        {
+            "name": "Roger",
+            "creature": 19349,
+            "slot": 0,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 31,
+            "familyName": "Ravager"
+        },
+        {
+            "name": "Jago",
+            "creature": 686,
+            "slot": 2,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 11,
+            "familyName": "Raptor"
+        },
+        {
+            "name": "mad",
+            "creature": 43417,
+            "slot": 6,
+            "spec": {
+                "name": "Ferocity",
+                "role": "DPS",
+                "backgroundImage": "bg-deathknight-blood",
+                "icon": "ability_druid_kingofthejungle",
+                "description": "Driven by a frenzied persistence to pursue prey, these beasts stop at nothing to achieve victory; even death is temporary for these predators.",
+                "order": 0
+            },
+            "calcSpec": "a",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "Dreadzone",
+            "creature": 43417,
+            "slot": 14,
+            "calcSpec": "",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "is",
+            "creature": 43417,
+            "slot": 10,
+            "calcSpec": "",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "so",
+            "creature": 43417,
+            "slot": 11,
+            "calcSpec": "",
+            "familyId": 51,
+            "familyName": "Monkey"
+        },
+        {
+            "name": "Turtle",
+            "creature": 3461,
+            "slot": 7,
+            "calcSpec": "",
+            "familyId": 21,
+            "familyName": "Turtle"
+        },
+        {
+            "name": "Lilgosty",
+            "creature": 4005,
+            "slot": 5,
+            "calcSpec": "",
+            "familyId": 3,
+            "familyName": "Spider"
+        }
+    ],
+    "professions": {
+        "primary": [
+            {
+                "id": 202,
+                "name": "Engineering",
+                "icon": "trade_engineering",
+                "rank": 662,
+                "max": 675,
+                "recipes": [
+                    3918,
+                    3919,
+                    3922,
+                    3923,
+                    3925,
+                    3929,
+                    3931,
+                    3932,
+                    3934,
+                    3936,
+                    3937,
+                    3938,
+                    3939,
+                    3941,
+                    3942,
+                    3945,
+                    3946,
+                    3949,
+                    3950,
+                    3953,
+                    3955,
+                    3956,
+                    3958,
+                    3961,
+                    3962,
+                    3963,
+                    3965,
+                    3967,
+                    3973,
+                    3977,
+                    3978,
+                    3979,
+                    6458,
+                    7430,
+                    8334,
+                    9271,
+                    12584,
+                    12585,
+                    12586,
+                    12589,
+                    12590,
+                    12591,
+                    12594,
+                    12595,
+                    12599,
+                    12603,
+                    12615,
+                    12617,
+                    12618,
+                    12619,
+                    12622,
+                    15255,
+                    19788,
+                    19790,
+                    19791,
+                    19792,
+                    19794,
+                    19795,
+                    19825,
+                    22704,
+                    22797,
+                    23070,
+                    23071,
+                    30303,
+                    30304,
+                    30305,
+                    30306,
+                    30307,
+                    30308,
+                    30309,
+                    30310,
+                    30311,
+                    30312,
+                    30341,
+                    30344,
+                    30348,
+                    39895,
+                    39971,
+                    39973,
+                    41307,
+                    41314,
+                    44155,
+                    44157,
+                    44391,
+                    53281,
+                    54353,
+                    54736,
+                    54793,
+                    55002,
+                    55016,
+                    55252,
+                    56349,
+                    56459,
+                    56460,
+                    56461,
+                    56462,
+                    56463,
+                    56464,
+                    56466,
+                    56467,
+                    56468,
+                    56469,
+                    56470,
+                    56471,
+                    56472,
+                    56476,
+                    56477,
+                    56478,
+                    56479,
+                    56574,
+                    60874,
+                    61471,
+                    61482,
+                    63750,
+                    67326,
+                    67839,
+                    67920,
+                    68067,
+                    81716,
+                    82200,
+                    84403,
+                    84406,
+                    84408,
+                    84409,
+                    84410,
+                    84411,
+                    84415,
+                    84416,
+                    84417,
+                    84418,
+                    84420,
+                    84421,
+                    84424,
+                    84425,
+                    84427,
+                    84428,
+                    84429,
+                    84430,
+                    84431,
+                    84432,
+                    94748,
+                    95703,
+                    109099,
+                    126392,
+                    127113,
+                    127114,
+                    127115,
+                    127116,
+                    127120,
+                    127124,
+                    127127,
+                    127128,
+                    127129,
+                    127130,
+                    127131,
+                    127132,
+                    127134,
+                    127135,
+                    127136,
+                    127137,
+                    131211,
+                    131212,
+                    131213,
+                    131214,
+                    131215,
+                    131216,
+                    131217,
+                    131218,
+                    131353,
+                    131563,
+                    139176,
+                    139192,
+                    139196,
+                    139197,
+                    143714,
+                    162202,
+                    162203,
+                    162204,
+                    162207,
+                    162216,
+                    169076,
+                    169080,
+                    169140,
+                    173289,
+                    173308,
+                    173309,
+                    177054,
+                    177363
+                ]
+            },
+            {
+                "id": 755,
+                "name": "Jewelcrafting",
+                "icon": "inv_misc_gem_01",
+                "rank": 643,
+                "max": 675,
+                "recipes": [
+                    25255,
+                    25278,
+                    25280,
+                    25283,
+                    25284,
+                    25287,
+                    25305,
+                    25317,
+                    25318,
+                    25321,
+                    25490,
+                    25493,
+                    25498,
+                    25610,
+                    25612,
+                    25613,
+                    25615,
+                    25617,
+                    25620,
+                    25621,
+                    26872,
+                    26874,
+                    26876,
+                    26880,
+                    26883,
+                    26885,
+                    26902,
+                    26903,
+                    26907,
+                    26908,
+                    26911,
+                    26916,
+                    26925,
+                    26926,
+                    26927,
+                    26928,
+                    28903,
+                    28905,
+                    28910,
+                    28914,
+                    28916,
+                    28917,
+                    28925,
+                    28936,
+                    28944,
+                    28948,
+                    28950,
+                    28953,
+                    31048,
+                    31049,
+                    31050,
+                    31051,
+                    31052,
+                    31054,
+                    31061,
+                    32178,
+                    32179,
+                    32259,
+                    32801,
+                    32807,
+                    32808,
+                    32809,
+                    34590,
+                    34955,
+                    34959,
+                    34960,
+                    34961,
+                    36523,
+                    36524,
+                    36525,
+                    36526,
+                    37818,
+                    38068,
+                    38175,
+                    40514,
+                    41414,
+                    41415,
+                    41418,
+                    41420,
+                    41429,
+                    47280,
+                    53831,
+                    53832,
+                    53843,
+                    53844,
+                    53845,
+                    53852,
+                    53854,
+                    53856,
+                    53859,
+                    53860,
+                    53861,
+                    53870,
+                    53871,
+                    53872,
+                    53873,
+                    53874,
+                    53876,
+                    53877,
+                    53880,
+                    53882,
+                    53883,
+                    53891,
+                    53892,
+                    53893,
+                    53894,
+                    53918,
+                    53920,
+                    53921,
+                    53922,
+                    53923,
+                    53925,
+                    53934,
+                    53941,
+                    53945,
+                    53948,
+                    53951,
+                    53954,
+                    53963,
+                    53965,
+                    53966,
+                    53980,
+                    53991,
+                    54017,
+                    54019,
+                    55386,
+                    55394,
+                    55397,
+                    55398,
+                    55399,
+                    55401,
+                    55402,
+                    56052,
+                    56085,
+                    56193,
+                    56194,
+                    56195,
+                    56196,
+                    56197,
+                    56199,
+                    56201,
+                    56202,
+                    56203,
+                    56205,
+                    56206,
+                    56208,
+                    56530,
+                    56531,
+                    58141,
+                    58142,
+                    58143,
+                    58144,
+                    58145,
+                    58146,
+                    59759,
+                    62242,
+                    62941,
+                    63743,
+                    64725,
+                    64726,
+                    64727,
+                    64728,
+                    66502,
+                    73222,
+                    73223,
+                    73225,
+                    73226,
+                    73227,
+                    73228,
+                    73230,
+                    73232,
+                    73234,
+                    73239,
+                    73240,
+                    73241,
+                    73243,
+                    73246,
+                    73247,
+                    73249,
+                    73250,
+                    73266,
+                    73267,
+                    73268,
+                    73270,
+                    73274,
+                    73279,
+                    73281,
+                    73336,
+                    73357,
+                    73365,
+                    73397,
+                    73478,
+                    73494,
+                    73495,
+                    73496,
+                    73497,
+                    73620,
+                    73621,
+                    73622,
+                    99539,
+                    99540,
+                    99541,
+                    99542,
+                    99543,
+                    99544,
+                    106955,
+                    107705,
+                    107706,
+                    107707,
+                    107708,
+                    107709,
+                    107714,
+                    107716,
+                    107720,
+                    107728,
+                    107729,
+                    107735,
+                    107736,
+                    107753,
+                    107754,
+                    107756,
+                    107757,
+                    107758,
+                    107759,
+                    107760,
+                    107762,
+                    107763,
+                    107764,
+                    107765,
+                    107766,
+                    107767,
+                    107768,
+                    122661,
+                    122662,
+                    122663,
+                    122664,
+                    122665,
+                    122666,
+                    122667,
+                    122668,
+                    122669,
+                    122670,
+                    122671,
+                    122672,
+                    122673,
+                    122674,
+                    122675,
+                    122676,
+                    122677,
+                    122678,
+                    122679,
+                    122680,
+                    122681,
+                    122682,
+                    122683,
+                    122684,
+                    122685,
+                    131593,
+                    131686,
+                    131688,
+                    131690,
+                    131691,
+                    131695,
+                    131759,
+                    131897,
+                    131898,
+                    140050,
+                    140060,
+                    170700,
+                    170704,
+                    170705,
+                    170706,
+                    170707,
+                    170708,
+                    170709,
+                    170710,
+                    170711,
+                    170712,
+                    170717,
+                    170719,
+                    170722,
+                    170728,
+                    176087
+                ]
+            }
+        ],
+        "secondary": [
+            {
+                "id": 129,
+                "name": "First Aid",
+                "icon": "spell_holy_sealofsacrifice",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    3275,
+                    172539,
+                    172540,
+                    172541,
+                    172542
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Archaeology",
+                "icon": "trade_archaeology",
+                "rank": 0,
+                "max": 0,
+                "recipes": []
+            },
+            {
+                "id": 356,
+                "name": "Fishing",
+                "icon": "trade_fishing",
+                "rank": 120,
+                "max": 150,
+                "recipes": []
+            },
+            {
+                "id": 185,
+                "name": "Cooking",
+                "icon": "inv_misc_food_15",
+                "rank": 576,
+                "max": 675,
+                "recipes": [
+                    2538,
+                    2539,
+                    2540,
+                    2541,
+                    2544,
+                    2546,
+                    4094,
+                    6499,
+                    6500,
+                    8238,
+                    8604,
+                    18238,
+                    18240,
+                    18243,
+                    18244,
+                    18247,
+                    21175,
+                    37836,
+                    42296,
+                    42302,
+                    42305,
+                    45022,
+                    45549,
+                    45550,
+                    45551,
+                    45552,
+                    45553,
+                    45554,
+                    45560,
+                    45561,
+                    45562,
+                    45563,
+                    45564,
+                    45565,
+                    45566,
+                    45569,
+                    53056,
+                    58065,
+                    58512,
+                    58521,
+                    58523,
+                    58525,
+                    62044,
+                    62045,
+                    62049,
+                    62050,
+                    62051,
+                    64358,
+                    93741,
+                    104237,
+                    104297,
+                    104298,
+                    104301,
+                    104302,
+                    104304,
+                    104307,
+                    104310,
+                    124052,
+                    124223,
+                    124224,
+                    124225,
+                    124226,
+                    124227,
+                    124228,
+                    124229,
+                    124230,
+                    124231,
+                    124232,
+                    124233,
+                    124234,
+                    125067,
+                    125078,
+                    125080,
+                    125117,
+                    125121,
+                    125122,
+                    125594,
+                    125595,
+                    161001,
+                    161002
+                ]
+            }
+        ]
+    },
+    "talents": [
+        {
+            "talents": [
+                {
+                    "tier": 5,
+                    "column": 0,
+                    "spell": {
+                        "id": 117050,
+                        "name": "Glaive Toss",
+                        "icon": "ability_glaivetoss",
+                        "description": "You hurl two glaives toward a target, each dealing 1,250 damage to each enemy struck and reducing movement speed by 30% for 3 sec.  The primary target will take 4 times as much damage from each strike.\n\n\n\nThe Glaives will return back to you, damaging and snaring targets again as they return.",
+                        "range": "40 yd range",
+                        "powerCost": "15 Focus",
+                        "castTime": "Instant",
+                        "cooldown": "15 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 109248,
+                        "name": "Binding Shot",
+                        "icon": "spell_shaman_bindelemental",
+                        "description": "Fires a magical projectile, tethering the enemy and any other enemies within 5 yards for 10 sec, stunning them for 5 sec if they move more than 5 yards from the arrow.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "45 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 0,
+                    "spell": {
+                        "id": 131894,
+                        "name": "A Murder of Crows",
+                        "icon": "ability_hunter_murderofcrows",
+                        "description": "Summons a flock of crows to attack your target over the next 15 sec. If the target dies while under attack, A Murder of Crows' cooldown is reset.",
+                        "range": "40 yd range",
+                        "powerCost": "30 Focus",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 2,
+                    "spell": {
+                        "id": 109306,
+                        "name": "Thrill of the Hunt",
+                        "icon": "ability_hunter_thrillofthehunt",
+                        "description": "You have a 6% chance per 10 Focus spent on Focus-costing attacks to trigger Thrill of the Hunt.\n\n\n\nThrill of the Hunt reduces the Focus cost of your next 3 Arcane Shots, Aimed Shots, or Multi-Shots by 20.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 2,
+                    "spell": {
+                        "id": 155228,
+                        "name": "Lone Wolf",
+                        "icon": "spell_hunter_lonewolf",
+                        "description": "While you don't have a pet active, your damage dealt with Auto Shot, Arcane Shot, Cobra Shot, Black Arrow, and Explosive Shot is increased by 30% and you are able to provide one of several beneficial effects to your party and raid.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 2,
+                    "spell": {
+                        "id": 118675,
+                        "name": "Crouching Tiger, Hidden Chimaera",
+                        "icon": "ability_hunter_pet_chimera",
+                        "description": "Reduces the cooldown of Disengage by 10 sec, and the cooldown of Deterrence by 60 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 109260,
+                        "name": "Iron Hawk",
+                        "icon": "spell_hunter_aspectoftheironhawk",
+                        "description": "Reduces all damage taken by 10%.",
+                        "castTime": "Passive"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 357,
+                        "item": 42903,
+                        "name": "Glyph of Deterrence",
+                        "icon": "ability_whirlwind"
+                    },
+                    {
+                        "glyph": 353,
+                        "item": 0,
+                        "name": "Glyph of Liberation",
+                        "icon": "achievement_bg_returnxflags_def_wsg"
+                    },
+                    {
+                        "glyph": 677,
+                        "item": 0,
+                        "name": "Glyph of Chimaera Shot",
+                        "icon": "ability_hunter_chimerashot2"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 351,
+                        "item": 42897,
+                        "name": "Glyph of Aspects",
+                        "icon": "ability_hunter_aspectmastery"
+                    },
+                    {
+                        "glyph": 441,
+                        "item": 43351,
+                        "name": "Glyph of Fireworks",
+                        "icon": "inv_misc_missilelargecluster_red"
+                    },
+                    {
+                        "glyph": 440,
+                        "item": 43350,
+                        "name": "Glyph of Lesser Proportion",
+                        "icon": "ability_hunter_bestialdiscipline"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Marksmanship",
+                "role": "DPS",
+                "backgroundImage": "bg-hunter-marksman",
+                "icon": "ability_hunter_focusedaim",
+                "description": "A master archer or sharpshooter who excels in bringing down enemies from afar.",
+                "order": 1
+            },
+            "calcTalent": "2012002",
+            "calcSpec": "Z",
+            "calcGlyph": "dbOakQ"
+        },
+        {
+            "selected": true,
+            "talents": [
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 109248,
+                        "name": "Binding Shot",
+                        "icon": "spell_shaman_bindelemental",
+                        "description": "Fires a magical projectile, tethering the enemy and any other enemies within 5 yards for 10 sec, stunning them for 5 sec if they move more than 5 yards from the arrow.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "45 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 120360,
+                        "name": "Barrage",
+                        "icon": "ability_hunter_rapidregeneration",
+                        "description": "Rapidly fires a spray of shots for 2.88 sec, dealing 23,932 Physical damage to the enemy target and an average of 11,966 Physical damage to each other enemy target in front of you.  Usable while moving.",
+                        "range": "40 yd range",
+                        "powerCost": "60 Focus",
+                        "castTime": "Channeled",
+                        "cooldown": "20 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 109260,
+                        "name": "Iron Hawk",
+                        "icon": "spell_hunter_aspectoftheironhawk",
+                        "description": "Reduces all damage taken by 10%.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 0,
+                    "spell": {
+                        "id": 131894,
+                        "name": "A Murder of Crows",
+                        "icon": "ability_hunter_murderofcrows",
+                        "description": "Summons a flock of crows to attack your target over the next 15 sec. If the target dies while under attack, A Murder of Crows' cooldown is reset.",
+                        "range": "40 yd range",
+                        "powerCost": "30 Focus",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 2,
+                    "spell": {
+                        "id": 118675,
+                        "name": "Crouching Tiger, Hidden Chimaera",
+                        "icon": "ability_hunter_pet_chimera",
+                        "description": "Reduces the cooldown of Disengage by 10 sec, and the cooldown of Deterrence by 60 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 1,
+                    "spell": {
+                        "id": 152245,
+                        "name": "Focusing Shot",
+                        "icon": "spell_hunter_focusingshot",
+                        "description": "Carefully line up a shot at the target that deals 4,222 Physical damage and focuses you, generating 50 Focus.\n\n\n\nCannot be cast while moving.\n\n\n\nReplaces Steady Shot and Cobra Shot.",
+                        "range": "40 yd range",
+                        "castTime": "3 sec cast"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 0,
+                    "spell": {
+                        "id": 177667,
+                        "name": "Steady Focus",
+                        "icon": "ability_hunter_improvedsteadyshot",
+                        "description": "Using Steady Shot twice in a row increases your Focus Regeneration by 50% for 10 sec.",
+                        "castTime": "Passive"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 357,
+                        "item": 42903,
+                        "name": "Glyph of Deterrence",
+                        "icon": "ability_whirlwind"
+                    },
+                    {
+                        "glyph": 363,
+                        "item": 0,
+                        "name": "Glyph of Animal Bond",
+                        "icon": "ability_druid_demoralizingroar"
+                    },
+                    {
+                        "glyph": 358,
+                        "item": 42904,
+                        "name": "Glyph of Disengage",
+                        "icon": "ability_rogue_feint"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 442,
+                        "item": 43356,
+                        "name": "Glyph of Stampede",
+                        "icon": "ability_hunter_bestialdiscipline"
+                    },
+                    {
+                        "glyph": 440,
+                        "item": 43350,
+                        "name": "Glyph of Lesser Proportion",
+                        "icon": "ability_hunter_bestialdiscipline"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Survival",
+                "role": "DPS",
+                "backgroundImage": "bg-hunter-survival",
+                "icon": "ability_hunter_camouflage",
+                "description": "A rugged tracker who favors using animal venom, explosives and traps as deadly weapons.",
+                "order": 2
+            },
+            "calcTalent": "2010021",
+            "calcSpec": "b",
+            "calcGlyph": "dgWPQ"
+        }
+    ],
+    "created_at": "2015-01-12T23:40:28.998Z",
+    "updated_at": "2015-01-12T23:40:28.998Z",
+    "class": 3
+}

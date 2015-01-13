@@ -1,0 +1,126 @@
+SimulationCraft 603-23 for World of Warcraft 6.0.3 Live (build level 19342)
+
+
+Simulating... ( iterations=1, target_error=0.000,  max_time=450, vary_combat_length=0.20, optimal_raid=1, fight_style=Patchwerk )
+
+
+Generating reports...
+DPS Ranking:
+  33663 100.0%  Raid
+  33663  100.0%  donkeywing
+
+HPS Ranking:
+      0 100.0%  Raid
+
+Player: donkeywing worgen hunter survival 100
+  DPS: 33663.4  DPS-Error=0.0/0.000%  DPS-Range=0/0.0%  DPS-Convergence=0.0%
+  HPS: 0.0 HPS-Error=0.0/0.0%
+  DPR=4184.7  RPS-Out=8.0 RPS-In=8.0  Resource=(focus) Waiting=0.0 ApM=50.5
+  Origin: /vagrant/Huntersmark/app/assets/backend/simc/4donkeywingprofile.json
+  Talents: http://us.battle.net/wow/en/tool/talent-calculator#Yb!2012022
+  Core Stats:    strength=933|889(889)  agility=4972|4472(4324)  stamina=5415|4923(4923)  intellect=892|850(850)  spirit=710|710(710)  health=324900|295380  mana=0|0
+  Generic Stats: mastery=15.80%|10.80%(308)  multistrike=18.76%|12.17%(803)  versatility=5.30%|2.30%(299)
+  Spell Stats:   power=0|0(0)  hit=15.00%|15.00%(0)  crit=36.01%|31.01%(1651)  haste=14.11%|8.68%(868)  speed=14.11%|8.68%  manareg=0|0(0)
+  Attack Stats:  power=5469|4472(0)  hit=7.50%|7.50%(0)  crit=36.01%|31.01%(1651)  expertise=7.50%|7.50%(0)  haste=14.11%|8.68%(868)  speed=14.11%|8.68%
+  Defense Stats: armor=1382|1382(1382) miss=3.00%|3.00%  dodge=21.48%|19.25%(0)  parry=0.00%|0.00%(0)  block=0.00%|0.00%(0) crit=0.00%|0.00%  versatility=2.65%|1.15%(299)
+  Glyphs: disengage/enduring_deceit/deterrence/aspect_of_the_cheetah/play_dead/aspect_of_the_pack
+  Priorities (actions.precombat):
+    flask,type=greater_draenic_agility_flask/food,type=calamari_crepes/summon_pet
+    snapshot_stats/exotic_munitions,ammo_type=poisoned,if=active_enemies<3
+    exotic_munitions,ammo_type=incendiary,if=active_enemies>=3
+    potion,name=draenic_agility/glaive_toss
+    focusing_shot,if=!talent.glaive_toss.enabled
+  Priorities:
+    auto_shot/use_item,name=lucky_doublesided_coin/arcane_torrent,if=focus.deficit>=30
+    blood_fury/berserking
+    potion,name=draenic_agility,if=(((cooldown.stampede.remains<1)&(cooldown.a_murder_of_crows.remains<1))&(trinket.stat.any.up|buff.archmages_greater_incandescence_agi.up))|target.time_to_die<=25
+    call_action_list,name=aoe,if=active_enemies>1
+    stampede,if=buff.potion.up|(cooldown.potion.remains&(buff.archmages_greater_incandescence_agi.up|trinket.stat.any.up))|target.time_to_die<=25
+    a_murder_of_crows/black_arrow,if=!ticking/explosive_shot/dire_beast
+    arcane_shot,if=buff.thrill_of_the_hunt.react&focus>35&cast_regen<=focus.deficit|dot.serpent_sting.remains<=3|target.time_to_die<4.5
+    explosive_trap
+    cobra_shot,if=buff.pre_steady_focus.up&buff.steady_focus.remains<5&(14+cast_regen)<=focus.deficit
+    arcane_shot,if=focus>=80|talent.focusing_shot.enabled/focusing_shot/cobra_shot
+  Actions:
+    a_murder_of_crows  Count=  8.0| 60.37sec  DPE=129136| 0%  DPET=128622  DPR=4304.5  pDPS=   0  Miss=0.00%  TickCount=120  UpTime=26.7%
+    arcane_shot     Count= 93.0|  4.85sec  DPE= 20220|12%  DPET= 20134  DPR=1099.7  pDPS=4179  Miss=0.00%  Hit=12482|11787|17942  Crit=25701|23573|33169|30.4%  Mult=50.0| 4552| 4243| 6459|76.9%  MultCrit=15.0| 8961| 8486|12918|23.1%
+    auto_shot       Count=176.0|  2.56sec  DPE=  9746|11%  DPET=  3830  DPR=   0.0  pDPS=3812  Miss=0.00%  Hit=5955|5514|8443  Crit=11927|11028|16886|36.4%  Mult=69.0| 2202| 1985| 3040|69.7%  MultCrit=30.0| 4436| 3970| 6079|30.3%
+    black_arrow     Count= 19.0| 24.70sec  DPE=111721|14%  DPET=111223  DPR=3192.0  pDPS=4717  Miss=0.00%  TickCount=181  MissTick=0.0%  Tick=7083|6389|10870  CritTick=13909|12779|21740|38.1%  MultTick= 2532| 2300| 3913|70.3%  MultCritTick= 5217| 4600| 7827|29.7%  UpTime=80.4%
+    cobra_shot      Count=107.0|  4.13sec  DPE= 12693| 9%  DPET=  7402  DPR=   0.0  pDPS=3018  Miss=0.00%  Hit=7584|7072|10765  Crit=15371|14144|21530|38.3%  Mult=44.0| 2826| 2546| 3875|69.8%  MultCrit=19.0| 5426| 5092| 7751|30.2%
+    crow_peck       Count=  0.0|  0.00sec  DPE=     0| 7%  DPET=     0  DPR=   0.0  pDPS=2296  Miss=0.00%  Hit=5537|4385|7461  Crit=10449| 8770|14922|30.8%  Mult=38.0| 1720| 1316| 2238|52.8%  MultCrit=34.0| 3573| 2631| 4477|47.2%
+    draenic_agility_potion  Count=  2.0|  0.00sec  DPE=     0| 0%  DPET=     0  DPR=   0.0  pDPS=   0
+    explosive_shot  Count=113.0|  3.98sec  DPE= 33818|25%  DPET= 33668  DPR=3802.4  pDPS=8492  Miss=0.00%  Hit=5308|4792|8153  Crit=10182| 9584|16305|37.2%  Mult=42.0| 1979| 1725| 2935|61.8%  MultCrit=26.0| 3699| 3450| 5870|38.2%  TickCount=256  MissTick=0.0%  Tick=6994|4792|12472  CritTick=13353|9583|23843|34.4%  MultTick= 2555| 1725| 4304|66.0%  MultCritTick= 4796| 3450| 7338|34.0%  UpTime=56.9%
+    explosive_trap  Count= 33.0| 13.89sec  DPE= 17522| 4%  DPET= 17441  DPR=   0.0  pDPS=1285  Miss=0.00%  Hit=1985|1695|2884  Crit= 3416| 3390| 3729|40.6%  Mult=15.0|  679|  610| 1038|75.0%  MultCrit=5.0| 1304| 1220| 1640|25.0%  TickCount=160  MissTick=0.0%  Tick=1841|1695|2884  CritTick=3613|3390|5244|36.9%  MultTick=  656|  610| 1038|72.9%  MultCritTick= 1323| 1220| 1888|27.1%  UpTime=71.1%
+    serpent_sting   Count=157.0|  4.87sec  DPE= 16810|17%  DPET=     0  DPR=   0.0  pDPS=5865  Miss=0.00%  TickCount=305  MissTick=0.0%  Tick=5209|4838|8231  CritTick=10813|9675|16463|33.8%  MultTick= 1911| 1742| 2963|72.6%  MultCritTick= 3702| 3483| 5927|27.4%  UpTime=98.7%
+  Constant Buffs: attack_power_multiplier/critical_strike/haste/mastery/multistrike/spell_power_multiplier/stamina
+  Constant Buffs: str_agi_int/versatility
+  Dynamic Buffs:
+    archmages_incandescence_agi   : start= 7.0 refresh=  0.0 interval= 63.1 trigger= 63.1 uptime=15.56%
+    balanced_fate                 : start= 9.0 refresh=  0.0 interval= 48.0 trigger= 48.0 uptime=20.00%
+    bloodlust                     : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=8.89%  benefit=13%
+    calamari_crepes_food          : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=100.00%
+    draenic_agility_potion        : start= 2.0 refresh=  0.0 interval=120.3 trigger=  0.0 uptime=10.67%
+    greater_draenic_agility_flask : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=100.00%
+    lock_and_load                 : start=23.0 refresh=  0.0 interval= 18.9 trigger= 18.9 uptime=9.25%  benefit=59%
+    lucky_flip                    : start= 4.0 refresh=  0.0 interval=120.5 trigger=120.6 uptime=17.78%
+    oglethorpes_missile_splitter  : start= 8.0 refresh=  1.0 interval= 57.5 trigger= 50.3 uptime=23.63%
+    thrill_of_the_hunt            : start=20.0 refresh=  8.0 interval= 22.5 trigger= 16.0 uptime=29.73%  benefit=86%
+  Up-Times:
+      0.5% : Focus Cap                     
+  Procs:
+     28.0 |  15.99sec : thrill_of_the_hunt
+     23.0 |  18.92sec : lock_and_load
+  Gains:
+      2075.5 : focus_regen                (focus)  (overflow=1.6%)
+      1260.0 : thrill_of_the_hunt_savings (focus)
+      1473.4 : cobra_shot                 (focus)  (overflow=1.6%)
+  Scale Factors:
+    Weights :  Agi=6.32(0.00)  AP=5.65(0.00)  Crit=2.50(0.00)  Haste=0.29(0.00)  Mastery=2.16(0.00)  Wdps=5.11(0.00)  Mult=5.42(0.00)  Vers=2.46(0.00)
+    Wowhead : 
+  Waiting: 0.00%
+
+ *** Targets *** 
+
+
+Target: Fluffy_Pillow humanoid enemy unknown 103
+  DPS: 0.0  DPS-Error=0.0/0.000%  DPS-Range=0/0.0%  DPS-Convergence=0.0%
+  HPS: 0.0 HPS-Error=0.0/0.0%
+
+  Core Stats:    strength=0|0(0)  agility=0|0(0)  stamina=0|0(0)  intellect=0|0(0)  spirit=0|0(0)  health=0|15148526  mana=0|0
+  Generic Stats: mastery=0.00%|0.00%(0)  multistrike=0.00%|0.00%(0)  versatility=0.00%|0.00%(0)
+  Spell Stats:   power=0|0(0)  hit=0.00%|0.00%(0)  crit=0.00%|0.00%(0)  haste=0.00%|0.00%(0)  speed=0.00%|0.00%  manareg=0|0(0)
+  Attack Stats:  power=0|0(0)  hit=0.00%|0.00%(0)  crit=5.00%|5.00%(0)  expertise=0.00%|0.00%(0)  haste=0.00%|0.00%(0)  speed=0.00%|0.00%
+  Defense Stats: armor=1938|1938(1938) miss=3.00%|3.00%  dodge=3.00%|3.00%(0)  parry=3.00%|3.00%(0)  block=3.00%|3.00%(0) crit=0.00%|0.00%  versatility=0.00%|0.00%(0)
+  Priorities (actions.precombat):
+    snapshot_stats
+  Priorities:
+
+  Actions:
+  Constant Buffs: attack_power_multiplier/bleeding/critical_strike/haste/mastery/mortal_wounds/multistrike
+  Constant Buffs: spell_power_multiplier/stamina/str_agi_int/versatility
+  Dynamic Buffs:
+    Health Decade (90 - 100) : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=100.00%
+  Scale Factors:
+    Weights :
+    Wowhead : 
+  Waiting: 0.00%
+Waiting:
+    All players active 100% of the time.
+
+Baseline Performance:
+  RNG Engine    = sfmt
+  Iterations    = 1
+  TotalEvents   = 4058
+  MaxEventQueue = 37
+  TargetHealth  = 15148526
+  SimSeconds    = 450
+  CpuSeconds    = 0.020
+  WallSeconds   = 0.021
+  SpeedUp       = 22500
+  EndTime       = Mon Jan 12 22:36:26 2015 (1421102186)
+
+
+Scale Factors:
+  donkeywing  Agi=6.32(0.00)  AP=5.65(0.00)  Crit=2.50(0.00)  Haste=0.29(0.00)  Mastery=2.16(0.00)  Wdps=5.11(0.00)  Mult=5.42(0.00)  Vers=2.46(0.00)
+
+

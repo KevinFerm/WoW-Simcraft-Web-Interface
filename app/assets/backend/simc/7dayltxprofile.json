@@ -1,0 +1,1252 @@
+{
+    "id": 7,
+    "name": "dayltx",
+    "region": "eu",
+    "realm": "defias-brotherhood",
+    "gender": 0,
+    "thumbnail": "scarshield-legion/243/106668531-avatar.jpg",
+    "calcClass": "Z",
+    "charClass": 1,
+    "race": 1,
+    "level": 100,
+    "achievementPoints": 12095,
+    "items": {
+        "averageItemLevel": 650,
+        "averageItemLevelEquipped": 649,
+        "head": {
+            "id": 109985,
+            "name": "Incarnadine Greathelm",
+            "icon": "inv_helm_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "transmogItem": 90846
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 118
+                },
+                {
+                    "stat": 74,
+                    "amount": 167
+                },
+                {
+                    "stat": 36,
+                    "amount": 101
+                },
+                {
+                    "stat": 7,
+                    "amount": 251
+                }
+            ],
+            "armor": 255,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "neck": {
+            "id": 115734,
+            "name": "Primal Gladiator's Choker of Cruelty",
+            "icon": "inv_60pvp_neck2a",
+            "quality": 4,
+            "itemLevel": 660,
+            "tooltipParams": {
+                "enchant": 5285
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 77
+                },
+                {
+                    "stat": 49,
+                    "amount": 89
+                },
+                {
+                    "stat": 4,
+                    "amount": 124
+                },
+                {
+                    "stat": 7,
+                    "amount": 186
+                }
+            ],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "shoulder": {
+            "id": 114520,
+            "name": "Crazed Bomber's Shoulderguard of the Savage",
+            "icon": "inv_plate_draenorlfr_c_01shoulders",
+            "quality": 4,
+            "itemLevel": 645,
+            "tooltipParams": {
+                "transmogItem": 82944
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 98
+                },
+                {
+                    "stat": 32,
+                    "amount": 94
+                },
+                {
+                    "stat": 74,
+                    "amount": 144
+                },
+                {
+                    "stat": 7,
+                    "amount": 216
+                }
+            ],
+            "armor": 246,
+            "context": "dungeon-normal",
+            "bonusLists": [
+                75
+            ]
+        },
+        "back": {
+            "id": 115733,
+            "name": "Primal Gladiator's Cloak of Prowess",
+            "icon": "inv_cape_draenorpvp_d_03_mail_purple",
+            "quality": 4,
+            "itemLevel": 660,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 89
+                },
+                {
+                    "stat": 4,
+                    "amount": 124
+                },
+                {
+                    "stat": 36,
+                    "amount": 77
+                },
+                {
+                    "stat": 7,
+                    "amount": 186
+                }
+            ],
+            "armor": 54,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "chest": {
+            "id": 113831,
+            "name": "Chestplate of Arcane Volatility",
+            "icon": "inv_chest_plate_raidpaladin_o_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {
+                "transmogItem": 82945
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 127
+                },
+                {
+                    "stat": 74,
+                    "amount": 211
+                },
+                {
+                    "stat": 36,
+                    "amount": 149
+                },
+                {
+                    "stat": 7,
+                    "amount": 316
+                }
+            ],
+            "armor": 337,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "tabard": {
+            "id": 89795,
+            "name": "Lorewalkers Tabard",
+            "icon": "inv_misc_tabard_lorewalkers",
+            "quality": 3,
+            "itemLevel": 1,
+            "tooltipParams": {},
+            "stats": [],
+            "armor": 0,
+            "context": "",
+            "bonusLists": []
+        },
+        "wrist": {
+            "id": 115708,
+            "name": "Primal Gladiator's Armplates of Prowess",
+            "icon": "inv_plate_plate_pvpwarrior_o_01bracer",
+            "quality": 4,
+            "itemLevel": 660,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 77
+                },
+                {
+                    "stat": 32,
+                    "amount": 89
+                },
+                {
+                    "stat": 74,
+                    "amount": 124
+                },
+                {
+                    "stat": 7,
+                    "amount": 186
+                }
+            ],
+            "armor": 150,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "hands": {
+            "id": 109856,
+            "name": "Incarnadine Gauntlets",
+            "icon": "inv_glove_plate_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "transmogItem": 82946
+            },
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 96
+                },
+                {
+                    "stat": 32,
+                    "amount": 64
+                },
+                {
+                    "stat": 74,
+                    "amount": 126
+                },
+                {
+                    "stat": 7,
+                    "amount": 189
+                }
+            ],
+            "armor": 196,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "waist": {
+            "id": 113659,
+            "name": "Fleshchewer Greatbelt",
+            "icon": "inv_plate_raidwarrior_o_01belt",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 116
+                },
+                {
+                    "stat": 74,
+                    "amount": 158
+                },
+                {
+                    "stat": 36,
+                    "amount": 88
+                },
+                {
+                    "stat": 7,
+                    "amount": 237
+                }
+            ],
+            "armor": 190,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "legs": {
+            "id": 114234,
+            "name": "Truesteel Greaves of the Savage",
+            "icon": "inv_plate_draenorcrafted_d_01pant",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {
+                "transmogItem": 30121
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 136
+                },
+                {
+                    "stat": 32,
+                    "amount": 99
+                },
+                {
+                    "stat": 74,
+                    "amount": 184
+                },
+                {
+                    "stat": 7,
+                    "amount": 275
+                }
+            ],
+            "armor": 283,
+            "context": "trade-skill",
+            "bonusLists": [
+                68,
+                525,
+                533
+            ]
+        },
+        "feet": {
+            "id": 116230,
+            "name": "Ogre-Eater Treads",
+            "icon": "inv_plate_draenorlfr_c_01boots",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {
+                "transmogItem": 30081
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 99
+                },
+                {
+                    "stat": 74,
+                    "amount": 138
+                },
+                {
+                    "stat": 36,
+                    "amount": 81
+                },
+                {
+                    "stat": 7,
+                    "amount": 207
+                }
+            ],
+            "armor": 222,
+            "context": "raid-finder",
+            "bonusLists": []
+        },
+        "finger1": {
+            "id": 113644,
+            "name": "Earthfury Band",
+            "icon": "inv_ringwod_d5_1",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 82
+                },
+                {
+                    "stat": 49,
+                    "amount": 75
+                },
+                {
+                    "stat": 4,
+                    "amount": 119
+                },
+                {
+                    "stat": 7,
+                    "amount": 178
+                }
+            ],
+            "armor": 0,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "finger2": {
+            "id": 118295,
+            "name": "Timeless Solium Band of Brutality",
+            "icon": "inv_misc_6oring_redlv2",
+            "quality": 4,
+            "itemLevel": 680,
+            "tooltipParams": {
+                "enchant": 5284
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 90
+                },
+                {
+                    "stat": 32,
+                    "amount": 106
+                },
+                {
+                    "stat": 4,
+                    "amount": 150
+                },
+                {
+                    "stat": 7,
+                    "amount": 225
+                }
+            ],
+            "armor": 0,
+            "context": "quest-reward",
+            "bonusLists": []
+        },
+        "trinket1": {
+            "id": 112318,
+            "name": "Skull of War",
+            "icon": "inv_inscription_trinket_melee",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 72,
+                    "amount": 175
+                }
+            ],
+            "armor": 0,
+            "context": "trade-skill",
+            "bonusLists": [
+                525,
+                529
+            ]
+        },
+        "trinket2": {
+            "id": 113645,
+            "name": "Tectus' Beating Heart",
+            "icon": "inv_misc_trinket6oog_stonefist3",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 4,
+                    "amount": 201
+                }
+            ],
+            "armor": 0,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "mainHand": {
+            "id": 113838,
+            "name": "Gar'tash, Hammer of the Breakers",
+            "icon": "inv_mace_2h_draenorraid_d_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {
+                "enchant": 5330,
+                "transmogItem": 15251
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 137
+                },
+                {
+                    "stat": 72,
+                    "amount": 211
+                },
+                {
+                    "stat": 36,
+                    "amount": 143
+                },
+                {
+                    "stat": 7,
+                    "amount": 316
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 1091,
+                    "max": 1638,
+                    "exactMin": 1091,
+                    "exactMax": 1637
+                },
+                "weaponSpeed": 3.6,
+                "dps": 378.8889
+            },
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "offHand": {
+            "id": 110036,
+            "name": "Nhallish's Bloody Polearm",
+            "icon": "inv_polearm_2h_draenordungeon_c_01",
+            "quality": 3,
+            "itemLevel": 636,
+            "tooltipParams": {
+                "enchant": 5331,
+                "transmogItem": 15251
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 133
+                },
+                {
+                    "stat": 49,
+                    "amount": 92
+                },
+                {
+                    "stat": 4,
+                    "amount": 177
+                },
+                {
+                    "stat": 7,
+                    "amount": 265
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 914,
+                    "max": 1372,
+                    "exactMin": 914,
+                    "exactMax": 1371
+                },
+                "weaponSpeed": 3.6,
+                "dps": 317.3611
+            },
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                499,
+                524
+            ]
+        }
+    },
+    "stats": {
+        "health": 247380,
+        "powerType": "rage",
+        "power": 100,
+        "str": 4198,
+        "agi": 889,
+        "int": 711,
+        "sta": 4123,
+        "speedRating": 0,
+        "speedRatingBonus": 0,
+        "crit": 16.018183,
+        "critRating": 1212,
+        "haste": 6.389999,
+        "hasteRating": 639,
+        "hasteRatingPercent": 6.39,
+        "mastery": 15.679999,
+        "masteryRating": 352,
+        "spr": 679,
+        "bonusArmor": 0,
+        "multistrike": 10.075758,
+        "multistrikeRating": 665,
+        "multistrikeRatingBonus": 10.075758,
+        "leech": 0,
+        "leechRating": 0,
+        "leechRatingBonus": 0,
+        "versatility": 82,
+        "versatilityDamageDoneBonus": 1.4,
+        "versatilityHealingDoneBonus": 1.4,
+        "versatilityDamageTakenBonus": 0.7,
+        "avoidanceRating": 0,
+        "avoidanceRatingBonus": 0,
+        "spellPower": 711,
+        "spellPen": 0,
+        "spellCrit": 16.018183,
+        "spellCritRating": 1212,
+        "mana5": 0,
+        "mana5Combat": 0,
+        "armor": 1933,
+        "dodge": 3,
+        "dodgeRating": 0,
+        "parry": 18.22406,
+        "parryRating": 0,
+        "block": 3,
+        "blockRating": 0,
+        "mainHandDmgMin": 5646,
+        "mainHandDmgMax": 6217,
+        "mainHandSpeed": 3.384,
+        "mainHandDps": 1752.9401,
+        "offHandDmgMin": 3413,
+        "offHandDmgMax": 3713,
+        "offHandSpeed": 3.384,
+        "offHandDps": 1052.878,
+        "rangedDmgMin": -1,
+        "rangedDmgMax": -1,
+        "rangedSpeed": -1,
+        "rangedDps": -1,
+        "attackPower": 4198,
+        "rangedAttackPower": 0
+    },
+    "hunterPets": null,
+    "professions": {
+        "primary": [
+            {
+                "id": 164,
+                "name": "Blacksmithing",
+                "icon": "trade_blacksmithing",
+                "rank": 671,
+                "max": 675,
+                "recipes": [
+                    2660,
+                    2661,
+                    2662,
+                    2663,
+                    2664,
+                    2665,
+                    2666,
+                    2668,
+                    2670,
+                    2672,
+                    2674,
+                    2675,
+                    2737,
+                    2738,
+                    2739,
+                    2740,
+                    2741,
+                    2742,
+                    3115,
+                    3116,
+                    3117,
+                    3292,
+                    3293,
+                    3294,
+                    3296,
+                    3319,
+                    3320,
+                    3323,
+                    3324,
+                    3326,
+                    3328,
+                    3331,
+                    3333,
+                    3337,
+                    3491,
+                    3501,
+                    3502,
+                    3506,
+                    3508,
+                    6517,
+                    7223,
+                    7408,
+                    7817,
+                    8768,
+                    8880,
+                    9916,
+                    9918,
+                    9920,
+                    9921,
+                    9926,
+                    9928,
+                    9931,
+                    9935,
+                    9959,
+                    9961,
+                    9968,
+                    9983,
+                    9985,
+                    9986,
+                    9987,
+                    9993,
+                    10001,
+                    12260,
+                    15972,
+                    16639,
+                    16640,
+                    16641,
+                    16642,
+                    16643,
+                    16644,
+                    16646,
+                    16647,
+                    16649,
+                    16652,
+                    16653,
+                    16657,
+                    16658,
+                    16662,
+                    16663,
+                    16730,
+                    16969,
+                    16971,
+                    19666,
+                    19667,
+                    19668,
+                    19669,
+                    29545,
+                    29547,
+                    29548,
+                    29549,
+                    29550,
+                    29551,
+                    29552,
+                    29553,
+                    29556,
+                    29557,
+                    29558,
+                    29565,
+                    29568,
+                    29654,
+                    29728,
+                    32284,
+                    34607,
+                    52567,
+                    52568,
+                    52569,
+                    52570,
+                    52571,
+                    52572,
+                    54550,
+                    54551,
+                    54552,
+                    54553,
+                    54554,
+                    54555,
+                    54556,
+                    54557,
+                    54917,
+                    54918,
+                    54941,
+                    54944,
+                    54945,
+                    54946,
+                    54947,
+                    54948,
+                    54949,
+                    55013,
+                    55014,
+                    55015,
+                    55017,
+                    55055,
+                    55056,
+                    55057,
+                    55058,
+                    55174,
+                    55177,
+                    55179,
+                    55181,
+                    55182,
+                    55185,
+                    55200,
+                    55201,
+                    55203,
+                    55204,
+                    55206,
+                    55298,
+                    55300,
+                    55301,
+                    55302,
+                    55303,
+                    55304,
+                    55305,
+                    55306,
+                    55307,
+                    55308,
+                    55309,
+                    55310,
+                    55311,
+                    55312,
+                    55369,
+                    55370,
+                    55371,
+                    55372,
+                    55373,
+                    55374,
+                    55375,
+                    55376,
+                    55377,
+                    55656,
+                    55834,
+                    55835,
+                    55839,
+                    56234,
+                    56280,
+                    56357,
+                    56400,
+                    56549,
+                    56550,
+                    56551,
+                    56552,
+                    56553,
+                    56554,
+                    56555,
+                    56556,
+                    59405,
+                    59406,
+                    59436,
+                    59438,
+                    59440,
+                    59441,
+                    59442,
+                    61008,
+                    61009,
+                    61010,
+                    63182,
+                    76178,
+                    76179,
+                    76180,
+                    76181,
+                    76182,
+                    76258,
+                    76259,
+                    76260,
+                    76261,
+                    76262,
+                    76263,
+                    76264,
+                    76265,
+                    76266,
+                    76267,
+                    76269,
+                    76270,
+                    76280,
+                    76281,
+                    76283,
+                    76285,
+                    76286,
+                    76287,
+                    76288,
+                    76289,
+                    76291,
+                    76293,
+                    76433,
+                    76434,
+                    76435,
+                    76436,
+                    76437,
+                    76438,
+                    76441,
+                    76474,
+                    122576,
+                    122577,
+                    122578,
+                    122579,
+                    122580,
+                    122581,
+                    122582,
+                    122583,
+                    122625,
+                    122632,
+                    122633,
+                    122635,
+                    122636,
+                    122637,
+                    122638,
+                    122639,
+                    122640,
+                    122641,
+                    131929,
+                    142954,
+                    143255,
+                    146921,
+                    171690,
+                    171691,
+                    171692,
+                    171693,
+                    171694,
+                    171700,
+                    171701,
+                    171702,
+                    171703,
+                    171706,
+                    171708,
+                    173355,
+                    176090
+                ]
+            },
+            {
+                "id": 186,
+                "name": "Mining",
+                "icon": "inv_pick_02",
+                "rank": 700,
+                "max": 675,
+                "recipes": [
+                    2657,
+                    2658,
+                    2659,
+                    3304,
+                    3307,
+                    3308,
+                    3569,
+                    10097,
+                    10098,
+                    16153,
+                    29356,
+                    29358,
+                    29359,
+                    29360,
+                    29361,
+                    29686,
+                    35750,
+                    35751,
+                    46353,
+                    49252,
+                    49258,
+                    55208,
+                    55211,
+                    70524,
+                    74530,
+                    74537,
+                    84038,
+                    102165
+                ]
+            }
+        ],
+        "secondary": [
+            {
+                "id": 129,
+                "name": "First Aid",
+                "icon": "spell_holy_sealofsacrifice",
+                "rank": 600,
+                "max": 675,
+                "recipes": [
+                    3275,
+                    3276,
+                    3277,
+                    3278,
+                    7928,
+                    7929,
+                    7934,
+                    10840,
+                    10841,
+                    18629,
+                    18630,
+                    27032,
+                    27033,
+                    45545,
+                    45546,
+                    74556,
+                    74557,
+                    74558,
+                    88893,
+                    102697,
+                    102699,
+                    172539,
+                    172540,
+                    172541,
+                    172542
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Archaeology",
+                "icon": "trade_archaeology",
+                "rank": 600,
+                "max": 600,
+                "recipes": []
+            },
+            {
+                "id": 356,
+                "name": "Fishing",
+                "icon": "trade_fishing",
+                "rank": 174,
+                "max": 675,
+                "recipes": []
+            },
+            {
+                "id": 185,
+                "name": "Cooking",
+                "icon": "inv_misc_food_15",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    2538,
+                    2540,
+                    8604,
+                    37836,
+                    161001,
+                    161002
+                ]
+            }
+        ]
+    },
+    "talents": [
+        {
+            "talents": [
+                {
+                    "tier": 6,
+                    "column": 0,
+                    "spell": {
+                        "id": 152278,
+                        "name": "Anger Management",
+                        "icon": "warrior_talent_icon_angermanagement",
+                        "description": "Every 30 rage that you spend reduces the remaining cooldown of several of your abilities by 1 sec:\n\n\n\nAvatar\n\nBloodbath\n\nBladestorm\n\nStorm Bolt\n\nShockwave\n\nDragon Roar\n\nMocking Banner\n\nHeroic Leap\n\nRecklessness\n\nDie by the Sword",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 0,
+                    "spell": {
+                        "id": 103826,
+                        "name": "Juggernaut",
+                        "icon": "ability_warrior_bullrush",
+                        "description": "You can Charge every 12 sec instead of every 20 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 55694,
+                        "name": "Enraged Regeneration",
+                        "icon": "ability_warrior_focusedrage",
+                        "description": "Instantly heals you for 10% of your maximum health, and an additional 20% over 5 sec. Usable while stunned.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 29725,
+                        "name": "Sudden Death",
+                        "icon": "ability_warrior_improveddisciplines",
+                        "description": "Your autoattack hits have a 10% chance to make your next Execute cost no initial Rage and be usable on any target, regardless of health level.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 46924,
+                        "name": "Bladestorm",
+                        "icon": "ability_warrior_bladestorm",
+                        "description": "Become an unstoppable storm of destructive force, striking all targets within 8 yards for 5,033 Physical damage every 1 sec for 6 sec.  You are immune to movement impairing and loss of control effects, but can only use Taunt and other defensive abilities.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 0,
+                    "spell": {
+                        "id": 107570,
+                        "name": "Storm Bolt",
+                        "icon": "warrior_talent_icon_stormbolt",
+                        "description": "Hurls your weapon at an enemy, causing 1,887 Physical damage and stunning for 4 sec.  Deals quadruple damage to targets permanently immune to stuns.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 2,
+                    "spell": {
+                        "id": 114030,
+                        "name": "Vigilance",
+                        "icon": "ability_warrior_vigilance",
+                        "description": "Protect a party or raid member for 12 sec, reducing damage they take by 30% and allowing you to use Taunt with no cooldown.",
+                        "range": "40 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "2 min cooldown"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 931,
+                        "item": 0,
+                        "name": "Glyph of Bull Rush",
+                        "icon": "achievement_character_tauren_male"
+                    },
+                    {
+                        "glyph": 1183,
+                        "item": 110874,
+                        "name": "Glyph of Heroic Leap",
+                        "icon": "ability_heroicleap"
+                    },
+                    {
+                        "glyph": 489,
+                        "item": 43421,
+                        "name": "Glyph of Mortal Strike",
+                        "icon": "ability_warrior_savageblow"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 851,
+                        "item": 49084,
+                        "name": "Glyph of Thunder Strike",
+                        "icon": "ability_thunderclap"
+                    },
+                    {
+                        "glyph": 1020,
+                        "item": 85221,
+                        "name": "Glyph of the Blazing Trail",
+                        "icon": "spell_fire_burningspeed"
+                    },
+                    {
+                        "glyph": 990,
+                        "item": 80587,
+                        "name": "Glyph of Crow Feast",
+                        "icon": "inv_sword_48"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Arms",
+                "role": "DPS",
+                "backgroundImage": "bg-warrior-arms",
+                "icon": "ability_warrior_savageblow",
+                "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+                "order": 0
+            },
+            "calcTalent": "0010220",
+            "calcSpec": "a",
+            "calcGlyph": "MGdnKL"
+        },
+        {
+            "selected": true,
+            "talents": [
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 29725,
+                        "name": "Sudden Death",
+                        "icon": "ability_warrior_improveddisciplines",
+                        "description": "Your autoattack hits have a 10% chance to make your next Execute cost no initial Rage and be usable on any target, regardless of health level.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 0,
+                    "spell": {
+                        "id": 107570,
+                        "name": "Storm Bolt",
+                        "icon": "warrior_talent_icon_stormbolt",
+                        "description": "Hurls your weapon at an enemy, causing 1,887 Physical damage and stunning for 4 sec.  Deals quadruple damage to targets permanently immune to stuns.",
+                        "range": "30 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 0,
+                    "spell": {
+                        "id": 114028,
+                        "name": "Mass Spell Reflection",
+                        "icon": "ability_warrior_shieldbreak",
+                        "description": "Reflects the next spell cast on you and on all party and raid members within 20 yards for 5 sec.\n\n\n\nReplaces Spell Reflection.",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 1,
+                    "spell": {
+                        "id": 152277,
+                        "name": "Ravager",
+                        "icon": "warrior_talent_icon_ravager",
+                        "description": "Throw a whirling axe at the target location that inflicts 2,482 damage to enemies within 6 yards every 1 sec. Lasts 10 sec.",
+                        "range": "40 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 0,
+                    "spell": {
+                        "id": 103826,
+                        "name": "Juggernaut",
+                        "icon": "ability_warrior_bullrush",
+                        "description": "You can Charge every 12 sec instead of every 20 sec.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 2,
+                    "spell": {
+                        "id": 103840,
+                        "name": "Impending Victory",
+                        "icon": "spell_impending_victory",
+                        "description": "Instantly attack the target, causing 6,016 damage and healing you for 15% of your maximum health.\n\n\n\nKilling an enemy that yields experience or honor resets the cooldown of Impending Victory.\n\n\n\nReplaces Victory Rush.",
+                        "range": "Melee Range",
+                        "powerCost": "10 Rage",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 46924,
+                        "name": "Bladestorm",
+                        "icon": "ability_warrior_bladestorm",
+                        "description": "Become an unstoppable storm of destructive force, striking all targets within 8 yards for 5,033 Physical damage every 1 sec for 6 sec.  You are immune to movement impairing and loss of control effects, but can only use Taunt and other defensive abilities.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 931,
+                        "item": 0,
+                        "name": "Glyph of Bull Rush",
+                        "icon": "achievement_character_tauren_male"
+                    },
+                    {
+                        "glyph": 491,
+                        "item": 0,
+                        "name": "Glyph of Enraged Speed",
+                        "icon": "ability_racial_bloodrage"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 1020,
+                        "item": 85221,
+                        "name": "Glyph of the Blazing Trail",
+                        "icon": "spell_fire_burningspeed"
+                    },
+                    {
+                        "glyph": 1099,
+                        "item": 104136,
+                        "name": "Glyph of the Subtle Defender",
+                        "icon": "ability_warrior_shieldguard"
+                    },
+                    {
+                        "glyph": 765,
+                        "item": 45794,
+                        "name": "Glyph of Intimidating Shout",
+                        "icon": "ability_golemthunderclap"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Fury",
+                "role": "DPS",
+                "backgroundImage": "bg-warrior-fury",
+                "icon": "ability_warrior_innerrage",
+                "description": "A furious berserker wielding a weapon in each hand, unleashing a flurry of attacks to carve her opponents to pieces.",
+                "order": 1
+            },
+            "calcTalent": "0210021",
+            "calcSpec": "Z",
+            "calcGlyph": "MeKrO"
+        }
+    ],
+    "created_at": "2015-01-13T16:46:34.433Z",
+    "updated_at": "2015-01-13T16:46:34.433Z",
+    "class": 1
+}

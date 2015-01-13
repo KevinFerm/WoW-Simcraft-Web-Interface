@@ -1,0 +1,885 @@
+{
+    "id": 6,
+    "name": "tinqulion",
+    "region": "eu",
+    "realm": "jaedenar",
+    "gender": 0,
+    "thumbnail": "auchindoun/61/110927165-avatar.jpg",
+    "calcClass": "Z",
+    "charClass": 1,
+    "race": 1,
+    "level": 100,
+    "achievementPoints": 5310,
+    "items": {
+        "averageItemLevel": 620,
+        "averageItemLevelEquipped": 620,
+        "head": {
+            "id": 115168,
+            "name": "Primal Combatant's Plate Helm",
+            "icon": "inv_helm_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 4,
+                    "amount": 152
+                },
+                {
+                    "stat": 36,
+                    "amount": 101
+                },
+                {
+                    "stat": 7,
+                    "amount": 228
+                }
+            ],
+            "armor": 248,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "neck": {
+            "id": 115139,
+            "name": "Primal Combatant's Choker of Cruelty",
+            "icon": "inv_60pvp_neck2a",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 53
+                },
+                {
+                    "stat": 49,
+                    "amount": 61
+                },
+                {
+                    "stat": 4,
+                    "amount": 86
+                },
+                {
+                    "stat": 7,
+                    "amount": 129
+                }
+            ],
+            "armor": 0,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "shoulder": {
+            "id": 115170,
+            "name": "Primal Combatant's Plate Shoulders",
+            "icon": "inv_shoulder_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 76
+                },
+                {
+                    "stat": 4,
+                    "amount": 114
+                },
+                {
+                    "stat": 36,
+                    "amount": 76
+                },
+                {
+                    "stat": 7,
+                    "amount": 171
+                }
+            ],
+            "armor": 229,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "back": {
+            "id": 115189,
+            "name": "Primal Combatant's Cloak of Cruelty",
+            "icon": "inv_cape_draenorpvp_d_03_mail_purple",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 53
+                },
+                {
+                    "stat": 4,
+                    "amount": 86
+                },
+                {
+                    "stat": 36,
+                    "amount": 61
+                },
+                {
+                    "stat": 7,
+                    "amount": 129
+                }
+            ],
+            "armor": 41,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "chest": {
+            "id": 115166,
+            "name": "Primal Combatant's Plate Chestpiece",
+            "icon": "inv_chest_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 101
+                },
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 4,
+                    "amount": 152
+                },
+                {
+                    "stat": 7,
+                    "amount": 228
+                }
+            ],
+            "armor": 305,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "tabard": {
+            "id": 45574,
+            "name": "Stormwind Tabard",
+            "icon": "inv_misc_tournaments_tabard_human",
+            "quality": 1,
+            "itemLevel": 1,
+            "tooltipParams": {},
+            "stats": [],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "wrist": {
+            "id": 115115,
+            "name": "Primal Combatant's Armplates of Cruelty",
+            "icon": "inv_bracer_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 53
+                },
+                {
+                    "stat": 74,
+                    "amount": 86
+                },
+                {
+                    "stat": 36,
+                    "amount": 61
+                },
+                {
+                    "stat": 7,
+                    "amount": 129
+                }
+            ],
+            "armor": 134,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "hands": {
+            "id": 115142,
+            "name": "Primal Combatant's Plate Gauntlets",
+            "icon": "inv_glove_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 76
+                },
+                {
+                    "stat": 32,
+                    "amount": 76
+                },
+                {
+                    "stat": 74,
+                    "amount": 114
+                },
+                {
+                    "stat": 7,
+                    "amount": 171
+                }
+            ],
+            "armor": 191,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "waist": {
+            "id": 115112,
+            "name": "Primal Combatant's Girdle of Prowess",
+            "icon": "inv_belt_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 71
+                },
+                {
+                    "stat": 74,
+                    "amount": 114
+                },
+                {
+                    "stat": 36,
+                    "amount": 82
+                },
+                {
+                    "stat": 7,
+                    "amount": 171
+                }
+            ],
+            "armor": 172,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "legs": {
+            "id": 115169,
+            "name": "Primal Combatant's Plate Legguards",
+            "icon": "inv_pant_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 101
+                },
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 4,
+                    "amount": 152
+                },
+                {
+                    "stat": 7,
+                    "amount": 228
+                }
+            ],
+            "armor": 267,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "feet": {
+            "id": 115113,
+            "name": "Primal Combatant's Warboots of Cruelty",
+            "icon": "inv_boot_plate_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 71
+                },
+                {
+                    "stat": 32,
+                    "amount": 82
+                },
+                {
+                    "stat": 74,
+                    "amount": 114
+                },
+                {
+                    "stat": 7,
+                    "amount": 171
+                }
+            ],
+            "armor": 210,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "finger1": {
+            "id": 115146,
+            "name": "Primal Combatant's Signet of Cruelty",
+            "icon": "inv_60pvp_ring1c",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 53
+                },
+                {
+                    "stat": 32,
+                    "amount": 61
+                },
+                {
+                    "stat": 4,
+                    "amount": 86
+                },
+                {
+                    "stat": 7,
+                    "amount": 129
+                }
+            ],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "finger2": {
+            "id": 115147,
+            "name": "Primal Combatant's Signet of Accuracy",
+            "icon": "inv_60pvp_ring1b",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 53
+                },
+                {
+                    "stat": 4,
+                    "amount": 86
+                },
+                {
+                    "stat": 36,
+                    "amount": 61
+                },
+                {
+                    "stat": 7,
+                    "amount": 129
+                }
+            ],
+            "armor": 0,
+            "context": "vendor",
+            "bonusLists": []
+        },
+        "trinket1": {
+            "id": 115160,
+            "name": "Primal Combatant's Insignia of Victory",
+            "icon": "inv_60pvp_trinket3a",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 4,
+                    "amount": 145
+                }
+            ],
+            "armor": 0,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "trinket2": {
+            "id": 115160,
+            "name": "Primal Combatant's Insignia of Victory",
+            "icon": "inv_60pvp_trinket3a",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 4,
+                    "amount": 145
+                }
+            ],
+            "armor": 0,
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "mainHand": {
+            "id": 120074,
+            "name": "Primal Combatant's Decapitator",
+            "icon": "inv_axe_2h_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 101
+                },
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 4,
+                    "amount": 152
+                },
+                {
+                    "stat": 7,
+                    "amount": 228
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 786,
+                    "max": 1181,
+                    "exactMin": 786,
+                    "exactMax": 1180
+                },
+                "weaponSpeed": 3.6,
+                "dps": 273.05557
+            },
+            "context": "pvp-unranked",
+            "bonusLists": []
+        },
+        "offHand": {
+            "id": 120074,
+            "name": "Primal Combatant's Decapitator",
+            "icon": "inv_axe_2h_draenorhonor_c_01",
+            "quality": 3,
+            "itemLevel": 620,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 101
+                },
+                {
+                    "stat": 32,
+                    "amount": 101
+                },
+                {
+                    "stat": 4,
+                    "amount": 152
+                },
+                {
+                    "stat": 7,
+                    "amount": 228
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 786,
+                    "max": 1181,
+                    "exactMin": 786,
+                    "exactMax": 1180
+                },
+                "weaponSpeed": 3.6,
+                "dps": 273.05557
+            },
+            "context": "pvp-unranked",
+            "bonusLists": []
+        }
+    },
+    "stats": {
+        "health": 201540,
+        "powerType": "rage",
+        "power": 100,
+        "str": 3255,
+        "agi": 889,
+        "int": 711,
+        "sta": 3359,
+        "speedRating": 0,
+        "speedRatingBonus": 0,
+        "crit": 11.690908,
+        "critRating": 736,
+        "haste": 5.18,
+        "hasteRating": 518,
+        "hasteRatingPercent": 5.18,
+        "mastery": 20.694546,
+        "masteryRating": 746,
+        "spr": 679,
+        "bonusArmor": 0,
+        "multistrike": 3.409091,
+        "multistrikeRating": 3.409091,
+        "multistrikeRatingBonus": 3.409091,
+        "leech": 0,
+        "leechRating": 0,
+        "leechRatingBonus": 0,
+        "versatility": 72,
+        "versatilityDamageDoneBonus": 1.323077,
+        "versatilityHealingDoneBonus": 1.323077,
+        "versatilityDamageTakenBonus": 0.661538,
+        "avoidanceRating": 0,
+        "avoidanceRatingBonus": 0,
+        "spellPower": 711,
+        "spellPen": 0,
+        "spellCrit": 11.690908,
+        "spellCritRating": 736,
+        "mana5": 0,
+        "mana5Combat": 0,
+        "armor": 1797,
+        "dodge": 3,
+        "dodgeRating": 0,
+        "parry": 13.215822,
+        "parryRating": 0,
+        "block": 3,
+        "blockRating": 0,
+        "mainHandDmgMin": 4661,
+        "mainHandDmgMax": 5073,
+        "mainHandSpeed": 3.423,
+        "mainHandDps": 1421.8433,
+        "offHandDmgMin": 2913,
+        "offHandDmgMax": 3171,
+        "offHandSpeed": 3.423,
+        "offHandDps": 888.6521,
+        "rangedDmgMin": -1,
+        "rangedDmgMax": -1,
+        "rangedSpeed": -1,
+        "rangedDps": -1,
+        "attackPower": 3580,
+        "rangedAttackPower": 0
+    },
+    "hunterPets": null,
+    "professions": {
+        "primary": [
+            {
+                "id": 393,
+                "name": "Skinning",
+                "icon": "inv_misc_pelt_wolf_01",
+                "rank": 23,
+                "max": 675,
+                "recipes": []
+            }
+        ],
+        "secondary": [
+            {
+                "id": 129,
+                "name": "First Aid",
+                "icon": "spell_holy_sealofsacrifice",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    3275,
+                    172539,
+                    172540,
+                    172541,
+                    172542
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Archaeology",
+                "icon": "trade_archaeology",
+                "rank": 0,
+                "max": 0,
+                "recipes": []
+            },
+            {
+                "id": 356,
+                "name": "Fishing",
+                "icon": "trade_fishing",
+                "rank": 0,
+                "max": 0,
+                "recipes": []
+            },
+            {
+                "id": 185,
+                "name": "Cooking",
+                "icon": "inv_misc_food_15",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    2538,
+                    2540,
+                    8604,
+                    161001,
+                    161002
+                ]
+            }
+        ]
+    },
+    "talents": [
+        {
+            "talents": [
+                {
+                    "tier": 2,
+                    "column": 0,
+                    "spell": {
+                        "id": 56636,
+                        "name": "Taste for Blood",
+                        "icon": "ability_rogue_hungerforblood",
+                        "description": "Each time Rend deals damage, you gain 3 Rage.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 0,
+                    "spell": {
+                        "id": 152278,
+                        "name": "Anger Management",
+                        "icon": "warrior_talent_icon_angermanagement",
+                        "description": "Every 30 rage that you spend reduces the remaining cooldown of several of your abilities by 1 sec:\n\n\n\nAvatar\n\nBloodbath\n\nBladestorm\n\nStorm Bolt\n\nShockwave\n\nDragon Roar\n\nMocking Banner\n\nHeroic Leap\n\nRecklessness\n\nDie by the Sword",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 0,
+                    "column": 1,
+                    "spell": {
+                        "id": 103827,
+                        "name": "Double Time",
+                        "icon": "inv_misc_horn_04",
+                        "description": "You can use Charge twice in a row, but it can only grant Rage once every 12 sec. Each use has a 20 sec recharge time.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 55694,
+                        "name": "Enraged Regeneration",
+                        "icon": "ability_warrior_focusedrage",
+                        "description": "Instantly heals you for 10% of your maximum health, and an additional 20% over 5 sec. Usable while stunned.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 1,
+                    "spell": {
+                        "id": 114029,
+                        "name": "Safeguard",
+                        "icon": "ability_warrior_safeguard",
+                        "description": "Run at high speed toward a party or raid member, intercepting the next melee or ranged attack made against them, reducing damage taken by them by 20% for 6 sec.\n\n\n\nReplaces Intervene.",
+                        "range": "25 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 1,
+                    "spell": {
+                        "id": 46968,
+                        "name": "Shockwave",
+                        "icon": "ability_warrior_shockwave",
+                        "description": "Sends a wave of force in a frontal cone, causing 3,759 damage and stunning all enemies within 10 yards for 4 sec.  Cooldown reduced by 20 sec if it strikes at least 3 targets.",
+                        "castTime": "Instant",
+                        "cooldown": "40 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 46924,
+                        "name": "Bladestorm",
+                        "icon": "ability_warrior_bladestorm",
+                        "description": "Become an unstoppable storm of destructive force, striking all targets within 8 yards for 5,033 Physical damage every 1 sec for 6 sec.  You are immune to movement impairing and loss of control effects, but can only use Taunt and other defensive abilities.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 931,
+                        "item": 0,
+                        "name": "Glyph of Bull Rush",
+                        "icon": "achievement_character_tauren_male"
+                    },
+                    {
+                        "glyph": 1186,
+                        "item": 110877,
+                        "name": "Glyph of Rallying Cry",
+                        "icon": "ability_toughness"
+                    },
+                    {
+                        "glyph": 489,
+                        "item": 43421,
+                        "name": "Glyph of Mortal Strike",
+                        "icon": "ability_warrior_savageblow"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 488,
+                        "item": 43400,
+                        "name": "Glyph of Mighty Victory",
+                        "icon": "ability_warrior_devastate"
+                    },
+                    {
+                        "glyph": 1020,
+                        "item": 85221,
+                        "name": "Glyph of the Blazing Trail",
+                        "icon": "spell_fire_burningspeed"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Arms",
+                "role": "DPS",
+                "backgroundImage": "bg-warrior-arms",
+                "icon": "ability_warrior_savageblow",
+                "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike his opponents down.",
+                "order": 0
+            },
+            "calcTalent": "1001120",
+            "calcSpec": "a",
+            "calcGlyph": "MvdXK"
+        },
+        {
+            "selected": true,
+            "talents": [
+                {
+                    "tier": 0,
+                    "column": 1,
+                    "spell": {
+                        "id": 103827,
+                        "name": "Double Time",
+                        "icon": "inv_misc_horn_04",
+                        "description": "You can use Charge twice in a row, but it can only grant Rage once every 12 sec. Each use has a 20 sec recharge time.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 0,
+                    "spell": {
+                        "id": 55694,
+                        "name": "Enraged Regeneration",
+                        "icon": "ability_warrior_focusedrage",
+                        "description": "Instantly heals you for 10% of your maximum health, and an additional 20% over 5 sec. Usable while stunned.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 0,
+                    "spell": {
+                        "id": 152278,
+                        "name": "Anger Management",
+                        "icon": "warrior_talent_icon_angermanagement",
+                        "description": "Every 30 rage that you spend reduces the remaining cooldown of several of your abilities by 1 sec:\n\n\n\nAvatar\n\nBloodbath\n\nBladestorm\n\nStorm Bolt\n\nShockwave\n\nDragon Roar\n\nMocking Banner\n\nHeroic Leap\n\nRecklessness\n\nDie by the Sword",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 1,
+                    "spell": {
+                        "id": 46968,
+                        "name": "Shockwave",
+                        "icon": "ability_warrior_shockwave",
+                        "description": "Sends a wave of force in a frontal cone, causing 3,759 damage and stunning all enemies within 10 yards for 4 sec.  Cooldown reduced by 20 sec if it strikes at least 3 targets.",
+                        "castTime": "Instant",
+                        "cooldown": "40 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 1,
+                    "spell": {
+                        "id": 114029,
+                        "name": "Safeguard",
+                        "icon": "ability_warrior_safeguard",
+                        "description": "Run at high speed toward a party or raid member, intercepting the next melee or ranged attack made against them, reducing damage taken by them by 20% for 6 sec.\n\n\n\nReplaces Intervene.",
+                        "range": "25 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "30 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 1,
+                    "spell": {
+                        "id": 29725,
+                        "name": "Sudden Death",
+                        "icon": "ability_warrior_improveddisciplines",
+                        "description": "Your autoattack hits have a 10% chance to make your next Execute cost no initial Rage and be usable on any target, regardless of health level.",
+                        "castTime": "Passive"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 2,
+                    "spell": {
+                        "id": 46924,
+                        "name": "Bladestorm",
+                        "icon": "ability_warrior_bladestorm",
+                        "description": "Become an unstoppable storm of destructive force, striking all targets within 8 yards for 5,033 Physical damage every 1 sec for 6 sec.  You are immune to movement impairing and loss of control effects, but can only use Taunt and other defensive abilities.",
+                        "castTime": "Instant",
+                        "cooldown": "1 min cooldown"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 494,
+                        "item": 0,
+                        "name": "Glyph of Bloodthirst",
+                        "icon": "spell_nature_bloodlust"
+                    },
+                    {
+                        "glyph": 495,
+                        "item": 43417,
+                        "name": "Glyph of Rude Interruption",
+                        "icon": "ability_warrior_commandingshout"
+                    },
+                    {
+                        "glyph": 931,
+                        "item": 0,
+                        "name": "Glyph of Bull Rush",
+                        "icon": "achievement_character_tauren_male"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 1020,
+                        "item": 85221,
+                        "name": "Glyph of the Blazing Trail",
+                        "icon": "spell_fire_burningspeed"
+                    },
+                    {
+                        "glyph": 488,
+                        "item": 43400,
+                        "name": "Glyph of Mighty Victory",
+                        "icon": "ability_warrior_devastate"
+                    },
+                    {
+                        "glyph": 991,
+                        "item": 80588,
+                        "name": "Glyph of Burning Anger",
+                        "icon": "spell_shadow_unholyfrenzy"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Fury",
+                "role": "DPS",
+                "backgroundImage": "bg-warrior-fury",
+                "icon": "ability_warrior_innerrage",
+                "description": "A furious berserker wielding a weapon in each hand, unleashing a flurry of attacks to carve his opponents to pieces.",
+                "order": 1
+            },
+            "calcTalent": "1011120",
+            "calcSpec": "Z",
+            "calcGlyph": "fUMKXp"
+        }
+    ],
+    "created_at": "2015-01-13T15:27:30.708Z",
+    "updated_at": "2015-01-13T15:27:30.708Z",
+    "class": 1
+}

@@ -1,0 +1,22 @@
+<h1>New Character</h1>
+<div id="newchar">
+  <div id="notice"><%= notice %></div>
+<div class="row">
+<%= semantic_form_for @character do |f| %>
+    <%= f.inputs do %>
+          <div class="large-4 columns">
+        <%= f.input :name, :label => false, :input_html => {:placeholder => 'Character Name'} %>
+          </div>
+          <div class="large-8 columns">
+        <%= f.input :realm, :label => false, :input_html => {:placeholder => 'Realm'} %>
+          </div>
+          <div class="small-2 columns">
+            <%= f.input :region, :as => :select, :label => false, :collection => [["EU", "eu"],["US", "us"],["TW", "tw"],["KR", "kr"],["CN", "cn"],["SEA", "sea"]], :include_blank => false  %>
+          </div>
+          <div class="small-2 columns">
+            <%= f.action :submit, :label => 'Show', :button_html => {:class => 'button postfix'} %>
+          </div>
+    <% end %>
+<% end %>
+</div>
+ </div>

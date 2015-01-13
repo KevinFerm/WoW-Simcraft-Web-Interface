@@ -1,0 +1,98 @@
+<div id="leftsidebar">
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @character['name'].titleize %>
+</p>
+
+<p>
+  <strong>Region:</strong>
+  <%= @character['region'].upcase %>
+</p>
+
+<p>
+  <strong>Realm:</strong>
+  <%= @character['realm'].titleize %>
+</p>
+
+<p>
+  <strong>Average Ilvl:</strong>
+  <%= @character['items']['averageItemLevelEquipped'].to_s + " / " + @character['items']['averageItemLevel'].to_s %>
+</p>
+
+<div id="stats">
+  <strong>Stats:</strong>
+  <ul>
+    <% @character['stats'].each do |item,key|
+      if(@stats.include? item) then%>
+            <li><%= item %>:<%= key %></li>
+        <% end end %>
+  </ul>
+</div>
+  <button type="submit" id="sendserver">Simulate!</button>
+  <div id="showdps">
+
+  </div>
+</div>
+<div id="armoryitems">
+  <div id="row1">
+    <ul>
+    <% @character['items'].each do |item, key|
+       if(@row1.include? item) then
+    %>
+
+              <li>
+                <img class="icon" src="http://wow.zamimg.com/images/wow/icons/large/<%= key['icon'] %>.jpg">
+                <a href="http://wowhead.com/item=<%= key['id'] %>" rel="bonus=<%
+                   if key['bonusLists'] then
+                     key['bonusLists'].each do |x|
+                       concat x.to_s+':'
+                     end
+                   else
+                     '0'
+                   end %>;ench=<%= if(key['tooltipParams']['enchant']) then
+                                     key['tooltipParams']['enchant'].to_s
+                                   else
+                                     '0'
+                                   end
+                %>;gems=<%= if(key['tooltipParams']['gem0']) then
+                              key['tooltipParams']['gem0'].to_s
+                            else
+                              '0'
+                            end
+                %>"></a> - <%= key['itemLevel'] %>
+              </li>
+    <% end end %></ul>
+  </div>
+  <div id="row2">
+    <ul>
+    <% @character['items'].each do |item, key|
+      if(@row2.include? item) then
+    %>
+
+            <li>
+              <img class="icon" src="http://wow.zamimg.com/images/wow/icons/large/<%= key['icon'] %>.jpg">
+              <a href="http://wowhead.com/item=<%= key['id'] %>" rel="bonus=<%
+                 if key['bonusLists'] then
+                   key['bonusLists'].each do |x|
+                     concat x.to_s+':'
+                   end
+                 else
+                   '0'
+                 end %>;ench=<%= if(key['tooltipParams']['enchant']) then
+                                   key['tooltipParams']['enchant'].to_s
+                                 else
+                                   '0'
+                                 end
+              %>;gems=<%= if(key['tooltipParams']['gem0']) then
+                            key['tooltipParams']['gem0'].to_s
+                          else
+                            '0'
+                          end
+              %>"></a> - <%= key['itemLevel'] %>
+            </li>
+        <% end end %>
+        </ul>
+  </div>
+  </div><div id="console"><ul id="messages"></ul></div>

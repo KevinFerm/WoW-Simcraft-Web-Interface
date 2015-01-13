@@ -1,0 +1,1083 @@
+{
+    "id": 8,
+    "name": "dabb",
+    "region": "eu",
+    "realm": "defias-brotherhood",
+    "gender": 1,
+    "thumbnail": "scarshield-legion/96/105567840-avatar.jpg",
+    "calcClass": "e",
+    "charClass": 8,
+    "race": 11,
+    "level": 100,
+    "achievementPoints": 10290,
+    "items": {
+        "averageItemLevel": 650,
+        "averageItemLevelEquipped": 649,
+        "head": {
+            "id": 113596,
+            "name": "Vilebreath Mask",
+            "icon": "inv_helm_cloth_raidpriest_o_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {
+                "transmogItem": 29076
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 153
+                },
+                {
+                    "stat": 49,
+                    "amount": 120
+                },
+                {
+                    "stat": 5,
+                    "amount": 211
+                },
+                {
+                    "stat": 7,
+                    "amount": 316
+                }
+            ],
+            "armor": 85,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "neck": {
+            "id": 113833,
+            "name": "Odyssian Choker",
+            "icon": "inv_6_0raid_necklace_3b",
+            "quality": 4,
+            "itemLevel": 670,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 89
+                },
+                {
+                    "stat": 32,
+                    "amount": 92
+                },
+                {
+                    "stat": 5,
+                    "amount": 136
+                },
+                {
+                    "stat": 7,
+                    "amount": 204
+                }
+            ],
+            "armor": 0,
+            "context": "raid-heroic",
+            "bonusLists": [
+                566
+            ]
+        },
+        "shoulder": {
+            "id": 113609,
+            "name": "Slaughterhouse Spaulders",
+            "icon": "inv_shoulder_cloth_raidmage_o_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 90
+                },
+                {
+                    "stat": 49,
+                    "amount": 115
+                },
+                {
+                    "stat": 5,
+                    "amount": 158
+                },
+                {
+                    "stat": 7,
+                    "amount": 237
+                }
+            ],
+            "armor": 79,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "back": {
+            "id": 113847,
+            "name": "Cloak of Searing Shadows",
+            "icon": "inv_cape_draenorraid_d_01caster_blue",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {
+                "enchant": 5281,
+                "transmogItem": 31329
+            },
+            "stats": [
+                {
+                    "stat": 32,
+                    "amount": 88
+                },
+                {
+                    "stat": 5,
+                    "amount": 119
+                },
+                {
+                    "stat": 36,
+                    "amount": 64
+                },
+                {
+                    "stat": 7,
+                    "amount": 178
+                }
+            ],
+            "armor": 52,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "chest": {
+            "id": 114439,
+            "name": "Fireflash Robes of the Merciless",
+            "icon": "inv_cloth_draenordungeon_c_01robe",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {
+                "transmogItem": 42100
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 126
+                },
+                {
+                    "stat": 49,
+                    "amount": 87
+                },
+                {
+                    "stat": 5,
+                    "amount": 167
+                },
+                {
+                    "stat": 7,
+                    "amount": 251
+                }
+            ],
+            "armor": 88,
+            "context": "dungeon-normal",
+            "bonusLists": [
+                176
+            ]
+        },
+        "wrist": {
+            "id": 113642,
+            "name": "Crystal-Woven Bracers",
+            "icon": "inv_bracer_cloth_raidmage_o_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 79
+                },
+                {
+                    "stat": 5,
+                    "amount": 119
+                },
+                {
+                    "stat": 36,
+                    "amount": 79
+                },
+                {
+                    "stat": 7,
+                    "amount": 178
+                }
+            ],
+            "armor": 46,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "hands": {
+            "id": 113610,
+            "name": "Meatmonger's Gory Grips",
+            "icon": "inv_cloth_raidwarlock_o_01gloves",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {
+                "transmogItem": 29080
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 85
+                },
+                {
+                    "stat": 32,
+                    "amount": 118
+                },
+                {
+                    "stat": 5,
+                    "amount": 158
+                },
+                {
+                    "stat": 7,
+                    "amount": 237
+                }
+            ],
+            "armor": 65,
+            "context": "raid-normal",
+            "bonusLists": []
+        },
+        "waist": {
+            "id": 118963,
+            "name": "Ironburner Cord of the Savage",
+            "icon": "inv_belt_cloth_draenorlfr_c_01",
+            "quality": 4,
+            "itemLevel": 640,
+            "tooltipParams": {
+                "transmogItem": 47181
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 90
+                },
+                {
+                    "stat": 32,
+                    "amount": 93
+                },
+                {
+                    "stat": 5,
+                    "amount": 138
+                },
+                {
+                    "stat": 7,
+                    "amount": 207
+                }
+            ],
+            "armor": 53,
+            "context": "quest-reward",
+            "bonusLists": [
+                77
+            ]
+        },
+        "legs": {
+            "id": 113828,
+            "name": "Sea-Cursed Leggings",
+            "icon": "inv_pant_cloth_raidpriest_o_01",
+            "quality": 4,
+            "itemLevel": 655,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 110
+                },
+                {
+                    "stat": 63,
+                    "amount": 120
+                },
+                {
+                    "stat": 5,
+                    "amount": 211
+                },
+                {
+                    "stat": 36,
+                    "amount": 158
+                },
+                {
+                    "stat": 7,
+                    "amount": 316
+                }
+            ],
+            "armor": 92,
+            "context": "raid-normal",
+            "bonusLists": [
+                40
+            ]
+        },
+        "feet": {
+            "id": 114440,
+            "name": "Fireflash Sandals of the Savage",
+            "icon": "inv_cloth_draenordungeon_c_01boot",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 76
+                },
+                {
+                    "stat": 32,
+                    "amount": 89
+                },
+                {
+                    "stat": 5,
+                    "amount": 126
+                },
+                {
+                    "stat": 7,
+                    "amount": 189
+                }
+            ],
+            "armor": 61,
+            "context": "dungeon-normal",
+            "bonusLists": [
+                80
+            ]
+        },
+        "finger1": {
+            "id": 118999,
+            "name": "Blackfire Ring of the Peerless",
+            "icon": "inv_ringwod_8b",
+            "quality": 4,
+            "itemLevel": 646,
+            "tooltipParams": {
+                "enchant": 5284
+            },
+            "stats": [
+                {
+                    "stat": 49,
+                    "amount": 61
+                },
+                {
+                    "stat": 32,
+                    "amount": 80
+                },
+                {
+                    "stat": 5,
+                    "amount": 109
+                },
+                {
+                    "stat": 7,
+                    "amount": 164
+                }
+            ],
+            "armor": 0,
+            "context": "quest-reward",
+            "bonusLists": [
+                62,
+                560
+            ]
+        },
+        "finger2": {
+            "id": 118296,
+            "name": "Timeless Solium Band of the Archmage",
+            "icon": "inv_misc_6oring_purplelv2",
+            "quality": 4,
+            "itemLevel": 680,
+            "tooltipParams": {
+                "enchant": 5284
+            },
+            "stats": [
+                {
+                    "stat": 40,
+                    "amount": 78
+                },
+                {
+                    "stat": 49,
+                    "amount": 113
+                },
+                {
+                    "stat": 5,
+                    "amount": 150
+                },
+                {
+                    "stat": 7,
+                    "amount": 225
+                }
+            ],
+            "armor": 0,
+            "context": "quest-reward",
+            "bonusLists": []
+        },
+        "trinket1": {
+            "id": 114550,
+            "name": "Grandiose Power",
+            "icon": "inv_misc_trinket6oog_gronn3",
+            "quality": 4,
+            "itemLevel": 645,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 62,
+                    "amount": 82
+                },
+                {
+                    "stat": 5,
+                    "amount": 183
+                },
+                {
+                    "stat": 32,
+                    "amount": 183
+                }
+            ],
+            "armor": 0,
+            "context": "dungeon-normal",
+            "bonusLists": [
+                41
+            ]
+        },
+        "trinket2": {
+            "id": 110004,
+            "name": "Coagulated Genesaur Blood",
+            "icon": "ability_creature_poison_06",
+            "quality": 3,
+            "itemLevel": 630,
+            "tooltipParams": {},
+            "stats": [
+                {
+                    "stat": 5,
+                    "amount": 159
+                }
+            ],
+            "armor": 0,
+            "context": "dungeon-heroic",
+            "bonusLists": [
+                524
+            ]
+        },
+        "mainHand": {
+            "id": 115333,
+            "name": "Grandiose Spire of the Strategist",
+            "icon": "inv_staff_2h_draenorquest_b_01",
+            "quality": 4,
+            "itemLevel": 645,
+            "tooltipParams": {
+                "enchant": 5331,
+                "transmogItem": 49793
+            },
+            "stats": [
+                {
+                    "stat": 59,
+                    "amount": 122
+                },
+                {
+                    "stat": 40,
+                    "amount": 132
+                },
+                {
+                    "stat": 5,
+                    "amount": 192
+                },
+                {
+                    "stat": 45,
+                    "amount": 1099
+                },
+                {
+                    "stat": 7,
+                    "amount": 288
+                }
+            ],
+            "armor": 0,
+            "weaponInfo": {
+                "damage": {
+                    "min": 455,
+                    "max": 683,
+                    "exactMin": 455,
+                    "exactMax": 683
+                },
+                "weaponSpeed": 3.3,
+                "dps": 172.42424
+            },
+            "context": "dungeon-normal",
+            "bonusLists": [
+                225
+            ]
+        }
+    },
+    "stats": {
+        "health": 232800,
+        "powerType": "mana",
+        "power": 160000,
+        "str": 713,
+        "agi": 951,
+        "int": 3540,
+        "sta": 3880,
+        "speedRating": 0,
+        "speedRatingBonus": 0,
+        "crit": 13.209091,
+        "critRating": 903,
+        "haste": 3.010002,
+        "hasteRating": 301,
+        "hasteRatingPercent": 3.01,
+        "mastery": 25.01818,
+        "masteryRating": 496,
+        "spr": 1157,
+        "bonusArmor": 0,
+        "multistrike": 22.969696,
+        "multistrikeRating": 988,
+        "multistrikeRatingBonus": 14.969697,
+        "leech": 0.298182,
+        "leechRating": 82,
+        "leechRatingBonus": 0.298182,
+        "versatility": 289,
+        "versatilityDamageDoneBonus": 2.223077,
+        "versatilityHealingDoneBonus": 2.223077,
+        "versatilityDamageTakenBonus": 1.111538,
+        "avoidanceRating": 120,
+        "avoidanceRatingBonus": 1.090909,
+        "spellPower": 4639,
+        "spellPen": 0,
+        "spellCrit": 13.209091,
+        "spellCritRating": 903,
+        "mana5": 20360,
+        "mana5Combat": 14833,
+        "armor": 621,
+        "dodge": 3,
+        "dodgeRating": 0,
+        "parry": 0,
+        "parryRating": 0,
+        "block": 0,
+        "blockRating": 0,
+        "mainHandDmgMin": 465,
+        "mainHandDmgMax": 699,
+        "mainHandSpeed": 3.204,
+        "mainHandDps": 181.53848,
+        "offHandDmgMin": 0,
+        "offHandDmgMax": 1,
+        "offHandSpeed": 1.942,
+        "offHandDps": 0.26319,
+        "rangedDmgMin": -1,
+        "rangedDmgMax": -1,
+        "rangedSpeed": -1,
+        "rangedDps": -1,
+        "attackPower": 0,
+        "rangedAttackPower": 0
+    },
+    "hunterPets": null,
+    "professions": {
+        "primary": [
+            {
+                "id": 171,
+                "name": "Alchemy",
+                "icon": "trade_alchemy",
+                "rank": 700,
+                "max": 675,
+                "recipes": [
+                    2329,
+                    2330,
+                    2331,
+                    2332,
+                    2334,
+                    2337,
+                    3170,
+                    3171,
+                    3173,
+                    3176,
+                    3177,
+                    3447,
+                    3448,
+                    3449,
+                    3450,
+                    3452,
+                    7179,
+                    7181,
+                    7183,
+                    7836,
+                    7837,
+                    7841,
+                    7845,
+                    11448,
+                    11449,
+                    11450,
+                    11451,
+                    11457,
+                    11460,
+                    11461,
+                    11465,
+                    11467,
+                    11478,
+                    12609,
+                    15833,
+                    17551,
+                    17552,
+                    17553,
+                    17555,
+                    17556,
+                    17557,
+                    17560,
+                    17572,
+                    17573,
+                    21923,
+                    22808,
+                    28544,
+                    28545,
+                    28551,
+                    28555,
+                    28589,
+                    33732,
+                    33733,
+                    33738,
+                    33740,
+                    33741,
+                    38070,
+                    39636,
+                    39638,
+                    45061,
+                    53812,
+                    53836,
+                    53837,
+                    53838,
+                    53839,
+                    53840,
+                    53841,
+                    53842,
+                    53847,
+                    53848,
+                    53898,
+                    53899,
+                    53900,
+                    53905,
+                    54218,
+                    54220,
+                    60367,
+                    60396,
+                    62409,
+                    63732,
+                    80243,
+                    80245,
+                    80250,
+                    80269,
+                    80477,
+                    80479,
+                    80484,
+                    80486,
+                    80488,
+                    80490,
+                    80491,
+                    80493,
+                    80494,
+                    80495,
+                    80496,
+                    80497,
+                    80498,
+                    80508,
+                    80719,
+                    80720,
+                    80721,
+                    80723,
+                    80725,
+                    80726,
+                    93935,
+                    94162,
+                    96253,
+                    114751,
+                    114752,
+                    114753,
+                    114754,
+                    114755,
+                    114756,
+                    114757,
+                    114758,
+                    114759,
+                    114760,
+                    114761,
+                    114762,
+                    114763,
+                    114764,
+                    114765,
+                    114766,
+                    114767,
+                    114769,
+                    114770,
+                    114771,
+                    114772,
+                    114773,
+                    114774,
+                    114775,
+                    114776,
+                    114777,
+                    114778,
+                    114779,
+                    114780,
+                    114781,
+                    114782,
+                    114783,
+                    114784,
+                    130326,
+                    136197,
+                    156561,
+                    156563,
+                    156564,
+                    156568,
+                    156571,
+                    156572,
+                    156576,
+                    156577,
+                    156578,
+                    156579,
+                    156580,
+                    156581,
+                    156582,
+                    156585,
+                    156587,
+                    162403,
+                    175853,
+                    175865,
+                    175866,
+                    175867,
+                    175868,
+                    175869,
+                    175880
+                ]
+            },
+            {
+                "id": 182,
+                "name": "Herbalism",
+                "icon": "trade_herbalism",
+                "rank": 700,
+                "max": 675,
+                "recipes": []
+            }
+        ],
+        "secondary": [
+            {
+                "id": 129,
+                "name": "First Aid",
+                "icon": "spell_holy_sealofsacrifice",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    3275,
+                    172539,
+                    172540,
+                    172541,
+                    172542
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Archaeology",
+                "icon": "trade_archaeology",
+                "rank": 700,
+                "max": 675,
+                "recipes": []
+            },
+            {
+                "id": 356,
+                "name": "Fishing",
+                "icon": "trade_fishing",
+                "rank": 191,
+                "max": 675,
+                "recipes": []
+            },
+            {
+                "id": 185,
+                "name": "Cooking",
+                "icon": "inv_misc_food_15",
+                "rank": 1,
+                "max": 675,
+                "recipes": [
+                    2538,
+                    2540,
+                    8604,
+                    160982,
+                    160999,
+                    161001,
+                    161002
+                ]
+            }
+        ]
+    },
+    "talents": [
+        {
+            "selected": true,
+            "talents": [
+                {
+                    "tier": 0,
+                    "column": 1,
+                    "spell": {
+                        "id": 108843,
+                        "name": "Blazing Speed",
+                        "icon": "spell_fire_burningspeed",
+                        "description": "Suppresses movement slowing effects and increases your movement speed by 150% for 1.50 sec.  Castable while another spell is in progress and unaffected by global cooldown.",
+                        "castTime": "Instant",
+                        "cooldown": "25 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 2,
+                    "spell": {
+                        "id": 11958,
+                        "name": "Cold Snap",
+                        "icon": "spell_frost_wizardmark",
+                        "description": "Immediately resets the cooldown of your Ice Block, and Frost Nova spells, and heals you for 22% of your maximum health.  Usable during most loss of control effects, and unaffected by global cooldown.",
+                        "castTime": "Instant",
+                        "cooldown": "3 min cooldown"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 1,
+                    "spell": {
+                        "id": 152087,
+                        "name": "Prismatic Crystal",
+                        "icon": "spell_mage_focusingcrystal",
+                        "description": "Conjures a prismatic crystal at the target location, which is attackable by only the Mage, and takes 30% additional damage. \n\n\n\nWhen the crystal takes damage, it instantly releases a burst of energy dealing that damage, split evenly between all enemies within 8 yards.",
+                        "range": "40 yd range",
+                        "castTime": "Instant",
+                        "cooldown": "1.5 min cooldown"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 2,
+                    "spell": {
+                        "id": 11426,
+                        "name": "Ice Barrier",
+                        "icon": "spell_ice_lament",
+                        "description": "Instantly shields you for 1 min, absorbing 16,904 damage. While the shield holds, spellcasting will not be interrupted by damage.",
+                        "powerCost": "3% of base mana",
+                        "castTime": "Instant",
+                        "cooldown": "25 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 2,
+                    "spell": {
+                        "id": 102051,
+                        "name": "Frostjaw",
+                        "icon": "ability_mage_frostjaw",
+                        "description": "Silences and freezes the target in place for 8 sec.  Damage caused may interrupt the effect.",
+                        "range": "30 yd range",
+                        "powerCost": "1% of base mana",
+                        "castTime": "1.5 sec cast",
+                        "cooldown": "20 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 0,
+                    "spell": {
+                        "id": 55342,
+                        "name": "Mirror Image",
+                        "icon": "spell_magic_lesserinvisibilty",
+                        "description": "Creates 3 copies of the caster nearby, which cast spells and attack the Mage's enemies. Lasts 40 sec.",
+                        "powerCost": "2% of base mana",
+                        "castTime": "Instant",
+                        "cooldown": "2 min cooldown"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 2,
+                    "spell": {
+                        "id": 157997,
+                        "name": "Ice Nova",
+                        "icon": "spell_mage_icenova",
+                        "description": "Causes a whirl of icy wind around the target enemy or ally, dealing 6,904 Frost damage to all enemies within 8 yards, and freezing for 2 sec. A primary enemy target will take 100% increased damage. Max 2 charges.\n\n\n\nReplaces Frost Nova.",
+                        "range": "40 yd range",
+                        "castTime": "Instant"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 330,
+                        "item": 42753,
+                        "name": "Glyph of Icy Veins",
+                        "icon": "spell_frost_coldhearted"
+                    },
+                    {
+                        "glyph": 322,
+                        "item": 42745,
+                        "name": "Glyph of Splitting Ice",
+                        "icon": "spell_frost_frostblast"
+                    },
+                    {
+                        "glyph": 325,
+                        "item": 42748,
+                        "name": "Glyph of Rapid Displacement",
+                        "icon": "spell_arcane_blink"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 448,
+                        "item": 43359,
+                        "name": "Glyph of Conjure Familiar",
+                        "icon": "spell_nature_elementalabsorption"
+                    },
+                    {
+                        "glyph": 923,
+                        "item": 63416,
+                        "name": "Glyph of Rapid Teleportation",
+                        "icon": "spell_arcane_portaldalaran"
+                    },
+                    {
+                        "glyph": 698,
+                        "item": 45738,
+                        "name": "Glyph of Illusion",
+                        "icon": "inv_mask_01"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Frost",
+                "role": "DPS",
+                "backgroundImage": "bg-mage-frost",
+                "icon": "spell_frost_frostbolt02",
+                "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+                "order": 2
+            },
+            "calcTalent": "1222201",
+            "calcSpec": "b",
+            "calcGlyph": "UdeTOk"
+        },
+        {
+            "talents": [
+                {
+                    "tier": 0,
+                    "column": 1,
+                    "spell": {
+                        "id": 108843,
+                        "name": "Blazing Speed",
+                        "icon": "spell_fire_burningspeed",
+                        "description": "Suppresses movement slowing effects and increases your movement speed by 150% for 1.50 sec.  Castable while another spell is in progress and unaffected by global cooldown.",
+                        "castTime": "Instant",
+                        "cooldown": "25 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 1,
+                    "column": 2,
+                    "spell": {
+                        "id": 11426,
+                        "name": "Ice Barrier",
+                        "icon": "spell_ice_lament",
+                        "description": "Instantly shields you for 1 min, absorbing 16,904 damage. While the shield holds, spellcasting will not be interrupted by damage.",
+                        "powerCost": "3% of base mana",
+                        "castTime": "Instant",
+                        "cooldown": "25 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 2,
+                    "column": 2,
+                    "spell": {
+                        "id": 102051,
+                        "name": "Frostjaw",
+                        "icon": "ability_mage_frostjaw",
+                        "description": "Silences and freezes the target in place for 8 sec.  Damage caused may interrupt the effect.",
+                        "range": "30 yd range",
+                        "powerCost": "1% of base mana",
+                        "castTime": "1.5 sec cast",
+                        "cooldown": "20 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 3,
+                    "column": 2,
+                    "spell": {
+                        "id": 11958,
+                        "name": "Cold Snap",
+                        "icon": "spell_frost_wizardmark",
+                        "description": "Immediately resets the cooldown of your Ice Block, and Frost Nova spells, and heals you for 22% of your maximum health.  Usable during most loss of control effects, and unaffected by global cooldown.",
+                        "castTime": "Instant",
+                        "cooldown": "3 min cooldown"
+                    }
+                },
+                {
+                    "tier": 6,
+                    "column": 2,
+                    "spell": {
+                        "id": 153561,
+                        "name": "Meteor",
+                        "icon": "spell_mage_meteor",
+                        "description": "Calls down a meteor which lands at the target location after 3 sec, dealing 12,944 Fire damage, split evenly between all targets within 8 yards. Also burns the ground, dealing an additional 1,035 Fire damage every 1 sec for 8 sec to enemies in the area.",
+                        "range": "40 yd range",
+                        "powerCost": "1% of base mana",
+                        "castTime": "Instant",
+                        "cooldown": "45 sec cooldown"
+                    }
+                },
+                {
+                    "tier": 5,
+                    "column": 1,
+                    "spell": {
+                        "id": 116011,
+                        "name": "Rune of Power",
+                        "icon": "spell_mage_runeofpower",
+                        "description": "Places a Rune of Power on the ground for 3 min which increases your spell damage by 15% while you stand within 8 yds.  You may place up to  2 Runes of Power at one time.",
+                        "range": "30 yd range",
+                        "castTime": "1.5 sec cast"
+                    }
+                },
+                {
+                    "tier": 4,
+                    "column": 2,
+                    "spell": {
+                        "id": 157981,
+                        "name": "Blast Wave",
+                        "icon": "spell_holy_excorcism_02",
+                        "description": "Causes an explosion around the target enemy or ally, dealing 6,904 Fire damage to all enemies within 8 yards, and reducing movement speed by 70% for 4 sec. A primary enemy target will take 100% increased damage. Max 2 charges.\n\n\n\nReplaces Frost Nova.",
+                        "range": "40 yd range",
+                        "castTime": "Instant"
+                    }
+                }
+            ],
+            "glyphs": {
+                "major": [
+                    {
+                        "glyph": 316,
+                        "item": 42739,
+                        "name": "Glyph of Combustion",
+                        "icon": "spell_fire_sealoffire"
+                    },
+                    {
+                        "glyph": 325,
+                        "item": 42748,
+                        "name": "Glyph of Rapid Displacement",
+                        "icon": "spell_arcane_blink"
+                    },
+                    {
+                        "glyph": 928,
+                        "item": 63539,
+                        "name": "Glyph of Inferno Blast",
+                        "icon": "spell_mage_infernoblast"
+                    }
+                ],
+                "minor": [
+                    {
+                        "glyph": 698,
+                        "item": 45738,
+                        "name": "Glyph of Illusion",
+                        "icon": "inv_mask_01"
+                    },
+                    {
+                        "glyph": 448,
+                        "item": 43359,
+                        "name": "Glyph of Conjure Familiar",
+                        "icon": "spell_nature_elementalabsorption"
+                    },
+                    {
+                        "glyph": 923,
+                        "item": 63416,
+                        "name": "Glyph of Rapid Teleportation",
+                        "icon": "spell_arcane_portaldalaran"
+                    }
+                ]
+            },
+            "spec": {
+                "name": "Fire",
+                "role": "DPS",
+                "backgroundImage": "bg-mage-fire",
+                "icon": "spell_fire_firebolt02",
+                "description": "Ignite enemies with balls of fire and combustive flames.",
+                "order": 1
+            },
+            "calcTalent": "1222212",
+            "calcSpec": "Z",
+            "calcGlyph": "bemkTO"
+        }
+    ],
+    "created_at": "2015-01-13T17:09:00.874Z",
+    "updated_at": "2015-01-13T17:09:00.874Z",
+    "class": 8
+}
